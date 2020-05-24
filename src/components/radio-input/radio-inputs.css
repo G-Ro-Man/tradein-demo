@@ -1,0 +1,12 @@
+.radio-description {
+  font-size: 0.8rem;
+  color: #777;
+}
+
+.form-check:hover {
+  background-color: #f3f3f3;
+  cursor: pointer;
+}
+.form-check:hover * {
+  cursor: pointer;
+}
