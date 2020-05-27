@@ -3,12 +3,11 @@ import React from 'react'
 const Title = () => {
   return (
     <>
-      <h5>Заголовок про описанине услуги</h5>
+      <h5>Калькулятор на базе API</h5>
       <p>
-        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Soluta culpa
-        tempora similique totam praesentium obcaecati perspiciatis cupiditate,
-        ratione dicta dolore nihil id mollitia atque pariatur autem quia illum
-        maiores assumenda!
+        Ниже Вы можете просмотреть пример калькулятора созданного на базе нашего
+        API, который можно использовать у себя на сайте. Внешний вид может быть
+        любым.
       </p>
     </>
   )

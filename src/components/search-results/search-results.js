@@ -1,25 +1,16 @@
-import React, { Component } from 'react'
-import DummyTradeinServices from '../../services/dummy-tradein-service'
+import React from 'react'
 import Spinner from '../spinner'
 
 import './search-results.css'
 
-export default class SearchResults extends Component {
-  tradeinServices = new DummyTradeinServices()
+const SearchResults = (props) => {
+  const { onItemSelected, itemList } = props
 
-  state = {
-    itemList: null,
+  if (!itemList) {
+    return <Spinner />
   }
 
-  componentDidMount() {
-    this.tradeinServices.findProdnom().then((itemList) => {
-      this.setState({
-        itemList,
-      })
-    })
-  }
-
-  renderItems(arr) {
+  function renderItems(arr) {
     if (arr.length === 0) {
       return (
         <li className="list-group-item dropdown-list-item" key="1">
@@ -32,7 +23,7 @@ export default class SearchResults extends Component {
         <li
           className="list-group-item dropdown-list-item"
           key={id}
-          onClick={() => this.props.onItemSelected(id, name)}
+          onClick={() => onItemSelected(id, name)}
         >
           {name}
         </li>
@@ -40,19 +31,13 @@ export default class SearchResults extends Component {
     })
   }
 
-  render() {
-    const { itemList } = this.state
+  const items = renderItems(itemList)
 
-    if (!itemList) {
-      return <Spinner />
-    }
-
-    const items = this.renderItems(itemList)
-
-    return (
-      <div className="dropdown">
-        <ul className="item-list list-group dropdown-menu">{items}</ul>
-      </div>
-    )
-  }
+  return (
+    <div className="dropdown">
+      <ul className="item-list list-group dropdown-menu">{items}</ul>
+    </div>
+  )
 }
+
+export default SearchResults

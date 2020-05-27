@@ -16,6 +16,7 @@ export default class App extends Component {
     },
     show: false,
     price: '',
+    itemList: null,
   }
 
   tradeinServices = new DummyTradeinServices()
@@ -31,7 +32,18 @@ export default class App extends Component {
     }))
 
     if (name === 'name') {
-      this.findProdnom(value)
+      if (value !== '')
+        this.findProdnom(value).then((itemList) => {
+          this.setState({
+            itemList,
+          })
+        })
+      else {
+        this.setState({
+          itemList: null,
+          show: false,
+        })
+      }
     }
 
     const { prodnom_id } = this.state.values
@@ -44,7 +56,7 @@ export default class App extends Component {
   getPrice(prodnom_id, product_group) {
     this.tradeinServices.getPrice(prodnom_id, product_group).then((price) => {
       this.setState({
-        price: price.price,
+        price,
       })
     })
   }
@@ -54,7 +66,7 @@ export default class App extends Component {
       this.setState(() => ({
         show: true,
       }))
-      return this.tradeinServices.findProdnom()
+      return this.tradeinServices.findProdnom(val)
     }
     this.setState(() => ({
       show: false,
@@ -71,11 +83,12 @@ export default class App extends Component {
       },
       show: false,
       price: '',
+      itemList: null,
     }))
   }
 
   render() {
-    const { values, show, price } = this.state
+    const { values, show, price, itemList } = this.state
     return (
       <div className="form-container card">
         <form className="form">
@@ -85,6 +98,7 @@ export default class App extends Component {
             <div className="row align-items-center">
               <FormInputs
                 values={values}
+                itemList={itemList}
                 show={show}
                 onChange={this.onChange}
                 findProdnom={this.findProdnom}

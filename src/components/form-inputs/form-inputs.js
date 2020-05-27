@@ -6,49 +6,51 @@ import SearchResults from '../search-results'
 // "price_4":777,"price_4p":777,"price_5":777,"price_5p":777
 
 const FormInputs = (props) => {
-  const { values, onChange, onItemSelected, show } = props
+  const { values, onChange, onItemSelected, show, itemList } = props
 
   return (
     <div className="col-md-7">
       <SearchField onChange={onChange} value={values.name} />
 
-      {show ? <SearchResults onItemSelected={onItemSelected} /> : null}
+      {show ? (
+        <SearchResults onItemSelected={onItemSelected} itemList={itemList} />
+      ) : null}
 
       <RadioInput
         name="product_group"
-        id="price_4"
-        value="4"
-        checked={values.product_group === '4'}
+        id="price_5p"
+        value="price_5p"
+        checked={values.product_group === 'price_5p'}
         onChange={onChange}
-        label="Сильные повреждения"
-        description="Устройсво иемеет незначительные потертости на корпусе и дисплее. Могут быть точечные сколы"
-      />
-      <RadioInput
-        name="product_group"
-        id="price_4p"
-        value="4+"
-        checked={values.product_group === '4+'}
-        onChange={onChange}
-        label="Заметные повреждения"
-        description="Устройсво иемеет незначительные потертости на корпусе и дисплее. Могут быть точечные сколы"
+        label="Идеальное состояние"
+        description="Устройство не имеет следов использования"
       />
       <RadioInput
         name="product_group"
         id="price_5"
-        value="5"
-        checked={values.product_group === '5'}
+        value="price_5"
+        checked={values.product_group === 'price_5'}
         onChange={onChange}
         label="Незначительные повреждения"
-        description="Устройсво иемеет незначительные потертости на корпусе и дисплее. Могут быть точечные сколы"
+        description="Устройство имеет незначительные царапины, потертости на корпусе и дисплее. Могут быть точечные сколы."
       />
       <RadioInput
         name="product_group"
-        id="price_5p"
-        value="5+"
-        checked={values.product_group === '5+'}
+        id="price_4p"
+        value="price_4p"
+        checked={values.product_group === 'price_4p'}
         onChange={onChange}
-        label="Идеальное состояние"
-        description="Устройсво иемеет незначительные потертости на корпусе и дисплее. Могут быть точечные сколы"
+        label="Заметные повреждения"
+        description="Устройство имеет множественные потертости и царапины на корпусе и дисплее. Допускаются незначительные повреждения краски корпуса"
+      />
+      <RadioInput
+        name="product_group"
+        id="price_4"
+        value="price_4"
+        checked={values.product_group === 'price_4'}
+        onChange={onChange}
+        label="Сильные повреждения"
+        description="Устройство имеет многочисленные глубокие царапины, сколы, сильные повреждения краски."
       />
     </div>
   )
