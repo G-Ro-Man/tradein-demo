@@ -4,7 +4,7 @@ const Price = (props) => {
   const { price } = props
 
   return (
-    <div className="col-4">
+    <div className="col-6 col-md-4">
       <h6>Оценочная стоимость</h6>
       <p>{price ? `${price} грн` : '-'}</p>
     </div>

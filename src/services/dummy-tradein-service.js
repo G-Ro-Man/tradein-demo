@@ -105,9 +105,9 @@ export default class DummyTradeinServices {
   }
 
   findProdnom = async (query) => {
-    const RegExpQury = new RegExp(query, 'i')
+    const RegExpQuery = new RegExp(query.trim().replace(/\W/g, '.+'), 'i')
     const filteredProdnom = Object.entries(this._prodnomAll.data)
-      .filter((el) => RegExpQury.test(el[1].name))
+      .filter((el) => RegExpQuery.test(el[1].name))
       .map(([id, prod]) => ({
         id,
         name: prod.name,
