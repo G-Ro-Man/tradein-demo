@@ -4,7 +4,7 @@ import DefaultPhoneImg from './Apple-iPhone-X-Black.png'
 import FormInputs from '../form-inputs'
 import DummyTradeinServices from '../../services/dummy-tradein-service'
 import Price from '../price'
-import ConfirmButton from '../confirm-button'
+// import ConfirmButton from '../confirm-button'
 import { Header, Title } from '../header'
 
 export default class App extends Component {
@@ -114,7 +114,7 @@ export default class App extends Component {
             </div>
             <div className="row justify-content-between align-items-center">
               <Price price={price} />
-              <ConfirmButton />
+              {/* <ConfirmButton /> */}
             </div>
           </div>
         </form>

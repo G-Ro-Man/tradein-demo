@@ -2064,7 +2064,7 @@ export const TestData = {
 
             '235': {
                     prodnom_id: '235',
-                    name: 'Asus ZenFone 5 (A501CG}, T00J 16GB White',
+                    name: 'Asus ZenFone 5 (A501CG), T00J 16GB White',
                     price_4: 400,
                     price_4p: 600,
                     price_5: 650,
@@ -2073,7 +2073,7 @@ export const TestData = {
 
             '236': {
                     prodnom_id: '236',
-                    name: 'Asus ZenFone 5 (A501CG}, T00J 16GB Black',
+                    name: 'Asus ZenFone 5 (A501CG), T00J 16GB Black',
                     price_4: 400,
                     price_4p: 600,
                     price_5: 650,
@@ -2082,7 +2082,7 @@ export const TestData = {
 
             '237': {
                     prodnom_id: '237',
-                    name: 'Asus ZenFone 5 (A501CG}, T00J 16GB Gold',
+                    name: 'Asus ZenFone 5 (A501CG), T00J 16GB Gold',
                     price_4: 400,
                     price_4p: 600,
                     price_5: 650,
@@ -4701,7 +4701,7 @@ export const TestData = {
 
             '528': {
                     prodnom_id: '528',
-                    name: 'HTC One (M9}, 32GB Black',
+                    name: 'HTC One (M9), 32GB Black',
                     price_4: 400,
                     price_4p: 600,
                     price_5: 650,
@@ -4710,7 +4710,7 @@ export const TestData = {
 
             '529': {
                     prodnom_id: '529',
-                    name: 'HTC One (M9}, 32GB Grey',
+                    name: 'HTC One (M9), 32GB Grey',
                     price_4: 400,
                     price_4p: 600,
                     price_5: 650,
@@ -4719,7 +4719,7 @@ export const TestData = {
 
             '530': {
                     prodnom_id: '530',
-                    name: 'HTC One (M9}, 32GB White',
+                    name: 'HTC One (M9), 32GB White',
                     price_4: 400,
                     price_4p: 600,
                     price_5: 650,
@@ -4728,7 +4728,7 @@ export const TestData = {
 
             '531': {
                     prodnom_id: '531',
-                    name: 'HTC One (M8}, Dual Sim 16GB Black',
+                    name: 'HTC One (M8), Dual Sim 16GB Black',
                     price_4: 300,
                     price_4p: 400,
                     price_5: 450,
@@ -4737,7 +4737,7 @@ export const TestData = {
 
             '532': {
                     prodnom_id: '532',
-                    name: 'HTC One (M8}, Dual Sim 16GB Grey',
+                    name: 'HTC One (M8), Dual Sim 16GB Grey',
                     price_4: 300,
                     price_4p: 400,
                     price_5: 450,
@@ -4746,7 +4746,7 @@ export const TestData = {
 
             '533': {
                     prodnom_id: '533',
-                    name: 'HTC One (M8}, Dual Sim 16GB White',
+                    name: 'HTC One (M8), Dual Sim 16GB White',
                     price_4: 300,
                     price_4p: 400,
                     price_5: 450,
@@ -4755,7 +4755,7 @@ export const TestData = {
 
             '534': {
                     prodnom_id: '534',
-                    name: 'HTC One (M8}, 16GB Black',
+                    name: 'HTC One (M8), 16GB Black',
                     price_4: 300,
                     price_4p: 350,
                     price_5: 400,
@@ -4764,7 +4764,7 @@ export const TestData = {
 
             '535': {
                     prodnom_id: '535',
-                    name: 'HTC One (M8}, 16GB Grey',
+                    name: 'HTC One (M8), 16GB Grey',
                     price_4: 300,
                     price_4p: 350,
                     price_5: 400,
@@ -4773,7 +4773,7 @@ export const TestData = {
 
             '536': {
                     prodnom_id: '536',
-                    name: 'HTC One (M8}, 16GB White',
+                    name: 'HTC One (M8), 16GB White',
                     price_4: 300,
                     price_4p: 350,
                     price_5: 400,
@@ -4782,7 +4782,7 @@ export const TestData = {
 
             '537': {
                     prodnom_id: '537',
-                    name: 'HTC One (E9}, Plus 32GB Black',
+                    name: 'HTC One (E9), Plus 32GB Black',
                     price_4: 600,
                     price_4p: 800,
                     price_5: 1000,
@@ -4791,7 +4791,7 @@ export const TestData = {
 
             '538': {
                     prodnom_id: '538',
-                    name: 'HTC One (E9}, Plus 32GB Grey',
+                    name: 'HTC One (E9), Plus 32GB Grey',
                     price_4: 600,
                     price_4p: 800,
                     price_5: 1000,
@@ -4800,7 +4800,7 @@ export const TestData = {
 
             '539': {
                     prodnom_id: '539',
-                    name: 'HTC One (E9}, Plus 32GB White',
+                    name: 'HTC One (E9), Plus 32GB White',
                     price_4: 600,
                     price_4p: 800,
                     price_5: 1000,
@@ -4809,7 +4809,7 @@ export const TestData = {
 
             '540': {
                     prodnom_id: '540',
-                    name: 'HTC One (A9}, 32GB Black',
+                    name: 'HTC One (A9), 32GB Black',
                     price_4: 300,
                     price_4p: 400,
                     price_5: 450,
@@ -4818,7 +4818,7 @@ export const TestData = {
 
             '541': {
                     prodnom_id: '541',
-                    name: 'HTC One (A9}, 32GB Grey',
+                    name: 'HTC One (A9), 32GB Grey',
                     price_4: 300,
                     price_4p: 400,
                     price_5: 450,
@@ -4827,7 +4827,7 @@ export const TestData = {
 
             '542': {
                     prodnom_id: '542',
-                    name: 'HTC One (A9}, 32GB White',
+                    name: 'HTC One (A9), 32GB White',
                     price_4: 300,
                     price_4p: 400,
                     price_5: 450,
@@ -4836,7 +4836,7 @@ export const TestData = {
 
             '543': {
                     prodnom_id: '543',
-                    name: 'HTC One (A9}, 16GB Black',
+                    name: 'HTC One (A9), 16GB Black',
                     price_4: 300,
                     price_4p: 400,
                     price_5: 450,
@@ -4845,7 +4845,7 @@ export const TestData = {
 
             '544': {
                     prodnom_id: '544',
-                    name: 'HTC One (A9}, 16GB Grey',
+                    name: 'HTC One (A9), 16GB Grey',
                     price_4: 300,
                     price_4p: 400,
                     price_5: 450,
@@ -4854,7 +4854,7 @@ export const TestData = {
 
             '545': {
                     prodnom_id: '545',
-                    name: 'HTC One (A9}, 16GB White',
+                    name: 'HTC One (A9), 16GB White',
                     price_4: 300,
                     price_4p: 400,
                     price_5: 450,
@@ -5970,7 +5970,7 @@ export const TestData = {
 
             '669': {
                     prodnom_id: '669',
-                    name: 'Huawei P8 Lite (2017}, 16GB Black',
+                    name: 'Huawei P8 Lite (2017), 16GB Black',
                     price_4: 400,
                     price_4p: 450,
                     price_5: 600,
@@ -5979,7 +5979,7 @@ export const TestData = {
 
             '670': {
                     prodnom_id: '670',
-                    name: 'Huawei P8 Lite (2017}, 16GB Blue',
+                    name: 'Huawei P8 Lite (2017), 16GB Blue',
                     price_4: 400,
                     price_4p: 450,
                     price_5: 600,
@@ -5988,7 +5988,7 @@ export const TestData = {
 
             '671': {
                     prodnom_id: '671',
-                    name: 'Huawei P8 Lite (2017}, 16GB Gold',
+                    name: 'Huawei P8 Lite (2017), 16GB Gold',
                     price_4: 400,
                     price_4p: 450,
                     price_5: 600,
@@ -5997,7 +5997,7 @@ export const TestData = {
 
             '672': {
                     prodnom_id: '672',
-                    name: 'Huawei P8 lite (2015}, 16GB Black',
+                    name: 'Huawei P8 lite (2015), 16GB Black',
                     price_4: 350,
                     price_4p: 450,
                     price_5: 500,
@@ -6006,7 +6006,7 @@ export const TestData = {
 
             '673': {
                     prodnom_id: '673',
-                    name: 'Huawei P8 lite (2015}, 16GB Blue',
+                    name: 'Huawei P8 lite (2015), 16GB Blue',
                     price_4: 350,
                     price_4p: 450,
                     price_5: 500,
@@ -6015,7 +6015,7 @@ export const TestData = {
 
             '674': {
                     prodnom_id: '674',
-                    name: 'Huawei P8 lite (2015}, 16GB Gold',
+                    name: 'Huawei P8 lite (2015), 16GB Gold',
                     price_4: 350,
                     price_4p: 450,
                     price_5: 500,
@@ -7356,7 +7356,7 @@ export const TestData = {
 
             '823': {
                     prodnom_id: '823',
-                    name: 'Lenovo Vibe P1m (P1ma40}, 16GB Black',
+                    name: 'Lenovo Vibe P1m (P1ma40), 16GB Black',
                     price_4: 150,
                     price_4p: 300,
                     price_5: 300,
@@ -7365,7 +7365,7 @@ export const TestData = {
 
             '824': {
                     prodnom_id: '824',
-                    name: 'Lenovo Vibe P1m (P1ma40}, 16GB White',
+                    name: 'Lenovo Vibe P1m (P1ma40), 16GB White',
                     price_4: 150,
                     price_4p: 300,
                     price_5: 300,
@@ -7374,7 +7374,7 @@ export const TestData = {
 
             '825': {
                     prodnom_id: '825',
-                    name: 'Lenovo Vibe P1m (P1ma40}, 16GB Gold',
+                    name: 'Lenovo Vibe P1m (P1ma40), 16GB Gold',
                     price_4: 150,
                     price_4p: 300,
                     price_5: 300,
@@ -7437,7 +7437,7 @@ export const TestData = {
 
             '832': {
                     prodnom_id: '832',
-                    name: 'Lenovo Vibe K5 (A6020}, 16GB Black',
+                    name: 'Lenovo Vibe K5 (A6020), 16GB Black',
                     price_4: 200,
                     price_4p: 300,
                     price_5: 350,
@@ -7446,7 +7446,7 @@ export const TestData = {
 
             '833': {
                     prodnom_id: '833',
-                    name: 'Lenovo Vibe K5 (A6020}, 16GB White',
+                    name: 'Lenovo Vibe K5 (A6020), 16GB White',
                     price_4: 200,
                     price_4p: 300,
                     price_5: 350,
@@ -7455,7 +7455,7 @@ export const TestData = {
 
             '834': {
                     prodnom_id: '834',
-                    name: 'Lenovo Vibe K5 (A6020}, 16GB Gold',
+                    name: 'Lenovo Vibe K5 (A6020), 16GB Gold',
                     price_4: 200,
                     price_4p: 300,
                     price_5: 350,
@@ -7977,7 +7977,7 @@ export const TestData = {
 
             '892': {
                     prodnom_id: '892',
-                    name: 'Lenovo K5 Note 2018 (L38012}, 32GB Black',
+                    name: 'Lenovo K5 Note 2018 (L38012), 32GB Black',
                     price_4: 350,
                     price_4p: 450,
                     price_5: 600,
@@ -7986,7 +7986,7 @@ export const TestData = {
 
             '893': {
                     prodnom_id: '893',
-                    name: 'Lenovo K5 Note 2018 (L38012}, 32GB White',
+                    name: 'Lenovo K5 Note 2018 (L38012), 32GB White',
                     price_4: 350,
                     price_4p: 450,
                     price_5: 600,
@@ -8049,7 +8049,7 @@ export const TestData = {
 
             '900': {
                     prodnom_id: '900',
-                    name: 'Lenovo C2 Power (K10a40}, 16GB Black',
+                    name: 'Lenovo C2 Power (K10a40), 16GB Black',
                     price_4: 200,
                     price_4p: 300,
                     price_5: 350,
@@ -8058,7 +8058,7 @@ export const TestData = {
 
             '901': {
                     prodnom_id: '901',
-                    name: 'Lenovo C2 Power (K10a40}, 16GB White',
+                    name: 'Lenovo C2 Power (K10a40), 16GB White',
                     price_4: 200,
                     price_4p: 300,
                     price_5: 350,
@@ -8463,7 +8463,7 @@ export const TestData = {
 
             '946': {
                     prodnom_id: '946',
-                    name: 'Lenovo A Plus (A1010a20}, 8GB Black',
+                    name: 'Lenovo A Plus (A1010a20), 8GB Black',
                     price_4: 100,
                     price_4p: 150,
                     price_5: 250,
@@ -8472,7 +8472,7 @@ export const TestData = {
 
             '947': {
                     prodnom_id: '947',
-                    name: 'Lenovo A Plus (A1010a20}, 8GB White',
+                    name: 'Lenovo A Plus (A1010a20), 8GB White',
                     price_4: 100,
                     price_4p: 150,
                     price_5: 250,
@@ -11064,7 +11064,7 @@ export const TestData = {
 
             '1235': {
                     prodnom_id: '1235',
-                    name: 'Motorola Moto M (XT1663}, 32GB Black',
+                    name: 'Motorola Moto M (XT1663), 32GB Black',
                     price_4: 400,
                     price_4p: 600,
                     price_5: 650,
@@ -11073,7 +11073,7 @@ export const TestData = {
 
             '1236': {
                     prodnom_id: '1236',
-                    name: 'Motorola Moto M (XT1663}, 32GB White',
+                    name: 'Motorola Moto M (XT1663), 32GB White',
                     price_4: 400,
                     price_4p: 600,
                     price_5: 650,
@@ -11100,7 +11100,7 @@ export const TestData = {
 
             '1239': {
                     prodnom_id: '1239',
-                    name: 'Motorola Moto G5s Plus (XT1805}, 32GB Black',
+                    name: 'Motorola Moto G5s Plus (XT1805), 32GB Black',
                     price_4: 500,
                     price_4p: 700,
                     price_5: 800,
@@ -11109,7 +11109,7 @@ export const TestData = {
 
             '1240': {
                     prodnom_id: '1240',
-                    name: 'Motorola Moto G5s Plus (XT1805}, 32GB White',
+                    name: 'Motorola Moto G5s Plus (XT1805), 32GB White',
                     price_4: 500,
                     price_4p: 700,
                     price_5: 800,
@@ -11118,7 +11118,7 @@ export const TestData = {
 
             '1241': {
                     prodnom_id: '1241',
-                    name: 'Motorola Moto G5s (XT1794}, 32GB Black',
+                    name: 'Motorola Moto G5s (XT1794), 32GB Black',
                     price_4: 500,
                     price_4p: 700,
                     price_5: 800,
@@ -11127,7 +11127,7 @@ export const TestData = {
 
             '1242': {
                     prodnom_id: '1242',
-                    name: 'Motorola Moto G5s (XT1794}, 32GB White',
+                    name: 'Motorola Moto G5s (XT1794), 32GB White',
                     price_4: 500,
                     price_4p: 700,
                     price_5: 800,
@@ -11334,7 +11334,7 @@ export const TestData = {
 
             '1265': {
                     prodnom_id: '1265',
-                    name: 'Motorola Moto E4 Plus (XT1771}, 16GB Black',
+                    name: 'Motorola Moto E4 Plus (XT1771), 16GB Black',
                     price_4: 300,
                     price_4p: 350,
                     price_5: 400,
@@ -11343,7 +11343,7 @@ export const TestData = {
 
             '1266': {
                     prodnom_id: '1266',
-                    name: 'Motorola Moto E4 Plus (XT1771}, 16GB White',
+                    name: 'Motorola Moto E4 Plus (XT1771), 16GB White',
                     price_4: 300,
                     price_4p: 350,
                     price_5: 400,
@@ -11820,7 +11820,7 @@ export const TestData = {
 
             '1349': {
                     prodnom_id: '1349',
-                    name: 'Samsung Galaxy Win (I8552}, 8GB Titan Grey',
+                    name: 'Samsung Galaxy Win (I8552), 8GB Titan Grey',
                     price_4: 100,
                     price_4p: 100,
                     price_5: 150,
@@ -11829,7 +11829,7 @@ export const TestData = {
 
             '1350': {
                     prodnom_id: '1350',
-                    name: 'Samsung Galaxy Win (I8552}, 8GB Ceramic White',
+                    name: 'Samsung Galaxy Win (I8552), 8GB Ceramic White',
                     price_4: 100,
                     price_4p: 100,
                     price_5: 150,
@@ -11838,7 +11838,7 @@ export const TestData = {
 
             '1351': {
                     prodnom_id: '1351',
-                    name: 'Samsung Galaxy Star Plus (S7262}, 4GB White',
+                    name: 'Samsung Galaxy Star Plus (S7262), 4GB White',
                     price_4: 100,
                     price_4p: 100,
                     price_5: 150,
@@ -11847,7 +11847,7 @@ export const TestData = {
 
             '1352': {
                     prodnom_id: '1352',
-                    name: 'Samsung Galaxy Star Plus (S7262}, 4GB Black',
+                    name: 'Samsung Galaxy Star Plus (S7262), 4GB Black',
                     price_4: 100,
                     price_4p: 100,
                     price_5: 150,
@@ -11874,7 +11874,7 @@ export const TestData = {
 
             '1355': {
                     prodnom_id: '1355',
-                    name: 'Samsung Galaxy Star Advance (G350E}, 4GB White',
+                    name: 'Samsung Galaxy Star Advance (G350E), 4GB White',
                     price_4: 100,
                     price_4p: 150,
                     price_5: 250,
@@ -11883,7 +11883,7 @@ export const TestData = {
 
             '1356': {
                     prodnom_id: '1356',
-                    name: 'Samsung Galaxy Star Advance (G350E}, 4GB Black',
+                    name: 'Samsung Galaxy Star Advance (G350E), 4GB Black',
                     price_4: 100,
                     price_4p: 150,
                     price_5: 250,
@@ -11892,7 +11892,7 @@ export const TestData = {
 
             '1357': {
                     prodnom_id: '1357',
-                    name: 'Samsung Galaxy S9+ 64GB (G965F}, Midnight Black',
+                    name: 'Samsung Galaxy S9+ 64GB (G965F), Midnight Black',
                     price_4: 2100,
                     price_4p: 2750,
                     price_5: 3200,
@@ -11901,7 +11901,7 @@ export const TestData = {
 
             '1358': {
                     prodnom_id: '1358',
-                    name: 'Samsung Galaxy S9+ 64GB (G965F}, Lilac Purple',
+                    name: 'Samsung Galaxy S9+ 64GB (G965F), Lilac Purple',
                     price_4: 2100,
                     price_4p: 2750,
                     price_5: 3200,
@@ -11910,7 +11910,7 @@ export const TestData = {
 
             '1359': {
                     prodnom_id: '1359',
-                    name: 'Samsung Galaxy S9+ 64GB (G965F}, Coral Blue',
+                    name: 'Samsung Galaxy S9+ 64GB (G965F), Coral Blue',
                     price_4: 2100,
                     price_4p: 2750,
                     price_5: 3200,
@@ -11919,7 +11919,7 @@ export const TestData = {
 
             '1360': {
                     prodnom_id: '1360',
-                    name: 'Samsung Galaxy S9+ 64GB (G965F}, Titanium Gray',
+                    name: 'Samsung Galaxy S9+ 64GB (G965F), Titanium Gray',
                     price_4: 2100,
                     price_4p: 2750,
                     price_5: 3200,
@@ -11928,7 +11928,7 @@ export const TestData = {
 
             '1361': {
                     prodnom_id: '1361',
-                    name: 'Samsung Galaxy S9+ 64GB (G965F}, Burgundy Red',
+                    name: 'Samsung Galaxy S9+ 64GB (G965F), Burgundy Red',
                     price_4: 2100,
                     price_4p: 2750,
                     price_5: 3200,
@@ -11937,7 +11937,7 @@ export const TestData = {
 
             '1362': {
                     prodnom_id: '1362',
-                    name: 'Samsung Galaxy S9+ 64GB (G965F}, Sunrise Gold',
+                    name: 'Samsung Galaxy S9+ 64GB (G965F), Sunrise Gold',
                     price_4: 2100,
                     price_4p: 2750,
                     price_5: 3200,
@@ -11946,7 +11946,7 @@ export const TestData = {
 
             '1363': {
                     prodnom_id: '1363',
-                    name: 'Samsung Galaxy S9+ 256GB (G965FZ}, Midnight Black',
+                    name: 'Samsung Galaxy S9+ 256GB (G965FZ), Midnight Black',
                     price_4: 2400,
                     price_4p: 3200,
                     price_5: 3800,
@@ -11955,7 +11955,7 @@ export const TestData = {
 
             '1364': {
                     prodnom_id: '1364',
-                    name: 'Samsung Galaxy S9+ 256GB (G965FZ}, Lilac Purple',
+                    name: 'Samsung Galaxy S9+ 256GB (G965FZ), Lilac Purple',
                     price_4: 2400,
                     price_4p: 3200,
                     price_5: 3800,
@@ -11964,7 +11964,7 @@ export const TestData = {
 
             '1365': {
                     prodnom_id: '1365',
-                    name: 'Samsung Galaxy S9+ 256GB (G965FZ}, Coral Blue',
+                    name: 'Samsung Galaxy S9+ 256GB (G965FZ), Coral Blue',
                     price_4: 2400,
                     price_4p: 3200,
                     price_5: 3800,
@@ -11973,7 +11973,7 @@ export const TestData = {
 
             '1366': {
                     prodnom_id: '1366',
-                    name: 'Samsung Galaxy S9+ 256GB (G965FZ}, Titanium Gray',
+                    name: 'Samsung Galaxy S9+ 256GB (G965FZ), Titanium Gray',
                     price_4: 2400,
                     price_4p: 3200,
                     price_5: 3800,
@@ -11982,7 +11982,7 @@ export const TestData = {
 
             '1367': {
                     prodnom_id: '1367',
-                    name: 'Samsung Galaxy S9+ 256GB (G965FZ}, Burgundy Red',
+                    name: 'Samsung Galaxy S9+ 256GB (G965FZ), Burgundy Red',
                     price_4: 2400,
                     price_4p: 3200,
                     price_5: 3800,
@@ -11991,7 +11991,7 @@ export const TestData = {
 
             '1368': {
                     prodnom_id: '1368',
-                    name: 'Samsung Galaxy S9+ 256GB (G965FZ}, Sunrise Gold',
+                    name: 'Samsung Galaxy S9+ 256GB (G965FZ), Sunrise Gold',
                     price_4: 2400,
                     price_4p: 3200,
                     price_5: 3800,
@@ -12000,7 +12000,7 @@ export const TestData = {
 
             '1369': {
                     prodnom_id: '1369',
-                    name: 'Samsung Galaxy S9 64GB (G960F}, Lilac Purple',
+                    name: 'Samsung Galaxy S9 64GB (G960F), Lilac Purple',
                     price_4: 2100,
                     price_4p: 2750,
                     price_5: 3200,
@@ -12009,7 +12009,7 @@ export const TestData = {
 
             '1370': {
                     prodnom_id: '1370',
-                    name: 'Samsung Galaxy S9 64GB (G960F}, Midnight Black',
+                    name: 'Samsung Galaxy S9 64GB (G960F), Midnight Black',
                     price_4: 2100,
                     price_4p: 2750,
                     price_5: 3200,
@@ -12018,7 +12018,7 @@ export const TestData = {
 
             '1371': {
                     prodnom_id: '1371',
-                    name: 'Samsung Galaxy S9 64GB (G960F}, Titanium Gray',
+                    name: 'Samsung Galaxy S9 64GB (G960F), Titanium Gray',
                     price_4: 2100,
                     price_4p: 2750,
                     price_5: 3200,
@@ -12027,7 +12027,7 @@ export const TestData = {
 
             '1372': {
                     prodnom_id: '1372',
-                    name: 'Samsung Galaxy S9 64GB (G960F}, Coral Blue',
+                    name: 'Samsung Galaxy S9 64GB (G960F), Coral Blue',
                     price_4: 2100,
                     price_4p: 2750,
                     price_5: 3200,
@@ -12036,7 +12036,7 @@ export const TestData = {
 
             '1373': {
                     prodnom_id: '1373',
-                    name: 'Samsung Galaxy S9 64GB (G960F}, Burgundy Red',
+                    name: 'Samsung Galaxy S9 64GB (G960F), Burgundy Red',
                     price_4: 2100,
                     price_4p: 2750,
                     price_5: 3200,
@@ -12045,7 +12045,7 @@ export const TestData = {
 
             '1374': {
                     prodnom_id: '1374',
-                    name: 'Samsung Galaxy S9 64GB (G960F}, Sunrise Gold',
+                    name: 'Samsung Galaxy S9 64GB (G960F), Sunrise Gold',
                     price_4: 2100,
                     price_4p: 2750,
                     price_5: 3200,
@@ -12054,7 +12054,7 @@ export const TestData = {
 
             '1375': {
                     prodnom_id: '1375',
-                    name: 'Samsung Galaxy S9 64GB (G960F}, Ice Blue',
+                    name: 'Samsung Galaxy S9 64GB (G960F), Ice Blue',
                     price_4: 2100,
                     price_4p: 2750,
                     price_5: 3200,
@@ -12063,7 +12063,7 @@ export const TestData = {
 
             '1376': {
                     prodnom_id: '1376',
-                    name: 'Samsung Galaxy S8+ 64GB (G955F}, Orchid Gray',
+                    name: 'Samsung Galaxy S8+ 64GB (G955F), Orchid Gray',
                     price_4: 1850,
                     price_4p: 2200,
                     price_5: 2650,
@@ -12072,7 +12072,7 @@ export const TestData = {
 
             '1377': {
                     prodnom_id: '1377',
-                    name: 'Samsung Galaxy S8+ 64GB (G955F}, Maple Gold',
+                    name: 'Samsung Galaxy S8+ 64GB (G955F), Maple Gold',
                     price_4: 1850,
                     price_4p: 2200,
                     price_5: 2650,
@@ -12081,7 +12081,7 @@ export const TestData = {
 
             '1378': {
                     prodnom_id: '1378',
-                    name: 'Samsung Galaxy S8+ 64GB (G955F}, Midnight Black',
+                    name: 'Samsung Galaxy S8+ 64GB (G955F), Midnight Black',
                     price_4: 1850,
                     price_4p: 2200,
                     price_5: 2650,
@@ -12090,7 +12090,7 @@ export const TestData = {
 
             '1379': {
                     prodnom_id: '1379',
-                    name: 'Samsung Galaxy S8+ 64GB (G955F}, Arctic Silver',
+                    name: 'Samsung Galaxy S8+ 64GB (G955F), Arctic Silver',
                     price_4: 1850,
                     price_4p: 2200,
                     price_5: 2650,
@@ -12099,7 +12099,7 @@ export const TestData = {
 
             '1380': {
                     prodnom_id: '1380',
-                    name: 'Samsung Galaxy S8+ 64GB (G955F}, Coral Blue',
+                    name: 'Samsung Galaxy S8+ 64GB (G955F), Coral Blue',
                     price_4: 1850,
                     price_4p: 2200,
                     price_5: 2650,
@@ -12108,7 +12108,7 @@ export const TestData = {
 
             '1381': {
                     prodnom_id: '1381',
-                    name: 'Samsung Galaxy S8+ 64GB (G955F}, Rose Pink',
+                    name: 'Samsung Galaxy S8+ 64GB (G955F), Rose Pink',
                     price_4: 1850,
                     price_4p: 2200,
                     price_5: 2650,
@@ -12117,7 +12117,7 @@ export const TestData = {
 
             '1382': {
                     prodnom_id: '1382',
-                    name: 'Samsung Galaxy S8+ 128GB (G955F}, Orchid Gray',
+                    name: 'Samsung Galaxy S8+ 128GB (G955F), Orchid Gray',
                     price_4: 2000,
                     price_4p: 2300,
                     price_5: 2750,
@@ -12126,7 +12126,7 @@ export const TestData = {
 
             '1383': {
                     prodnom_id: '1383',
-                    name: 'Samsung Galaxy S8+ 128GB (G955F}, Maple Gold',
+                    name: 'Samsung Galaxy S8+ 128GB (G955F), Maple Gold',
                     price_4: 2000,
                     price_4p: 2300,
                     price_5: 2750,
@@ -12135,7 +12135,7 @@ export const TestData = {
 
             '1384': {
                     prodnom_id: '1384',
-                    name: 'Samsung Galaxy S8+ 128GB (G955F}, Midnight Black',
+                    name: 'Samsung Galaxy S8+ 128GB (G955F), Midnight Black',
                     price_4: 2000,
                     price_4p: 2300,
                     price_5: 2750,
@@ -12144,7 +12144,7 @@ export const TestData = {
 
             '1385': {
                     prodnom_id: '1385',
-                    name: 'Samsung Galaxy S8+ 128GB (G955F}, Arctic Silver',
+                    name: 'Samsung Galaxy S8+ 128GB (G955F), Arctic Silver',
                     price_4: 2000,
                     price_4p: 2300,
                     price_5: 2750,
@@ -12153,7 +12153,7 @@ export const TestData = {
 
             '1386': {
                     prodnom_id: '1386',
-                    name: 'Samsung Galaxy S8+ 128GB (G955F}, Coral Blue',
+                    name: 'Samsung Galaxy S8+ 128GB (G955F), Coral Blue',
                     price_4: 2000,
                     price_4p: 2300,
                     price_5: 2750,
@@ -12162,7 +12162,7 @@ export const TestData = {
 
             '1387': {
                     prodnom_id: '1387',
-                    name: 'Samsung Galaxy S8+ 128GB (G955F}, Rose Pink',
+                    name: 'Samsung Galaxy S8+ 128GB (G955F), Rose Pink',
                     price_4: 2000,
                     price_4p: 2300,
                     price_5: 2750,
@@ -12171,7 +12171,7 @@ export const TestData = {
 
             '1388': {
                     prodnom_id: '1388',
-                    name: 'Samsung Galaxy S8 64 GB (G950F}, Midnight Black',
+                    name: 'Samsung Galaxy S8 64 GB (G950F), Midnight Black',
                     price_4: 1800,
                     price_4p: 2000,
                     price_5: 2400,
@@ -12180,7 +12180,7 @@ export const TestData = {
 
             '1389': {
                     prodnom_id: '1389',
-                    name: 'Samsung Galaxy S8 64 GB (G950F}, Orchid Gray',
+                    name: 'Samsung Galaxy S8 64 GB (G950F), Orchid Gray',
                     price_4: 1800,
                     price_4p: 2000,
                     price_5: 2400,
@@ -12189,7 +12189,7 @@ export const TestData = {
 
             '1390': {
                     prodnom_id: '1390',
-                    name: 'Samsung Galaxy S8 64 GB (G950F}, Maple Gold',
+                    name: 'Samsung Galaxy S8 64 GB (G950F), Maple Gold',
                     price_4: 1800,
                     price_4p: 2000,
                     price_5: 2400,
@@ -12198,7 +12198,7 @@ export const TestData = {
 
             '1391': {
                     prodnom_id: '1391',
-                    name: 'Samsung Galaxy S8 64 GB (G950F}, Burgundy Red',
+                    name: 'Samsung Galaxy S8 64 GB (G950F), Burgundy Red',
                     price_4: 1800,
                     price_4p: 2000,
                     price_5: 2400,
@@ -12207,7 +12207,7 @@ export const TestData = {
 
             '1392': {
                     prodnom_id: '1392',
-                    name: 'Samsung Galaxy S8 64 GB (G950F}, Arctic Silver',
+                    name: 'Samsung Galaxy S8 64 GB (G950F), Arctic Silver',
                     price_4: 1800,
                     price_4p: 2000,
                     price_5: 2400,
@@ -12216,7 +12216,7 @@ export const TestData = {
 
             '1393': {
                     prodnom_id: '1393',
-                    name: 'Samsung Galaxy S8 64 GB (G950F}, Coral Blue',
+                    name: 'Samsung Galaxy S8 64 GB (G950F), Coral Blue',
                     price_4: 1800,
                     price_4p: 2000,
                     price_5: 2400,
@@ -12225,7 +12225,7 @@ export const TestData = {
 
             '1394': {
                     prodnom_id: '1394',
-                    name: 'Samsung Galaxy S8 64 GB (G950F}, Rose Pink',
+                    name: 'Samsung Galaxy S8 64 GB (G950F), Rose Pink',
                     price_4: 1800,
                     price_4p: 2000,
                     price_5: 2400,
@@ -12234,7 +12234,7 @@ export const TestData = {
 
             '1395': {
                     prodnom_id: '1395',
-                    name: 'Samsung Galaxy S7 Edge 32GB (G935F}, Gold Platinum',
+                    name: 'Samsung Galaxy S7 Edge 32GB (G935F), Gold Platinum',
                     price_4: 1200,
                     price_4p: 1300,
                     price_5: 1600,
@@ -12243,7 +12243,7 @@ export const TestData = {
 
             '1396': {
                     prodnom_id: '1396',
-                    name: 'Samsung Galaxy S7 Edge 32GB (G935F}, Black Onyx',
+                    name: 'Samsung Galaxy S7 Edge 32GB (G935F), Black Onyx',
                     price_4: 1200,
                     price_4p: 1300,
                     price_5: 1600,
@@ -12252,7 +12252,7 @@ export const TestData = {
 
             '1397': {
                     prodnom_id: '1397',
-                    name: 'Samsung Galaxy S7 Edge 32GB (G935F}, Silver Titanium',
+                    name: 'Samsung Galaxy S7 Edge 32GB (G935F), Silver Titanium',
                     price_4: 1200,
                     price_4p: 1300,
                     price_5: 1600,
@@ -12261,7 +12261,7 @@ export const TestData = {
 
             '1398': {
                     prodnom_id: '1398',
-                    name: 'Samsung Galaxy S7 Edge 32GB (G935F}, Blue Coral',
+                    name: 'Samsung Galaxy S7 Edge 32GB (G935F), Blue Coral',
                     price_4: 1200,
                     price_4p: 1300,
                     price_5: 1600,
@@ -12270,7 +12270,7 @@ export const TestData = {
 
             '1399': {
                     prodnom_id: '1399',
-                    name: 'Samsung Galaxy S7 Edge 32GB (G935F}, Pink',
+                    name: 'Samsung Galaxy S7 Edge 32GB (G935F), Pink',
                     price_4: 1200,
                     price_4p: 1300,
                     price_5: 1600,
@@ -12279,7 +12279,7 @@ export const TestData = {
 
             '1400': {
                     prodnom_id: '1400',
-                    name: 'Samsung Galaxy S7 Edge 32GB (G935F}, Smoke Saphyr',
+                    name: 'Samsung Galaxy S7 Edge 32GB (G935F), Smoke Saphyr',
                     price_4: 1200,
                     price_4p: 1300,
                     price_5: 1600,
@@ -12288,7 +12288,7 @@ export const TestData = {
 
             '1401': {
                     prodnom_id: '1401',
-                    name: 'Samsung Galaxy S7 Edge 32GB (G935F}, White',
+                    name: 'Samsung Galaxy S7 Edge 32GB (G935F), White',
                     price_4: 1200,
                     price_4p: 1300,
                     price_5: 1600,
@@ -12297,7 +12297,7 @@ export const TestData = {
 
             '1402': {
                     prodnom_id: '1402',
-                    name: 'Samsung Galaxy S7 32GB (G930F}, Black Onyx',
+                    name: 'Samsung Galaxy S7 32GB (G930F), Black Onyx',
                     price_4: 950,
                     price_4p: 1100,
                     price_5: 1250,
@@ -12306,7 +12306,7 @@ export const TestData = {
 
             '1403': {
                     prodnom_id: '1403',
-                    name: 'Samsung Galaxy S7 32GB (G930F}, Gold Platinum',
+                    name: 'Samsung Galaxy S7 32GB (G930F), Gold Platinum',
                     price_4: 950,
                     price_4p: 1100,
                     price_5: 1250,
@@ -12315,7 +12315,7 @@ export const TestData = {
 
             '1404': {
                     prodnom_id: '1404',
-                    name: 'Samsung Galaxy S7 32GB (G930F}, Silver Titanium',
+                    name: 'Samsung Galaxy S7 32GB (G930F), Silver Titanium',
                     price_4: 950,
                     price_4p: 1100,
                     price_5: 1250,
@@ -12324,7 +12324,7 @@ export const TestData = {
 
             '1405': {
                     prodnom_id: '1405',
-                    name: 'Samsung Galaxy S7 32GB (G930F}, Blue Coral',
+                    name: 'Samsung Galaxy S7 32GB (G930F), Blue Coral',
                     price_4: 950,
                     price_4p: 1100,
                     price_5: 1250,
@@ -12333,7 +12333,7 @@ export const TestData = {
 
             '1406': {
                     prodnom_id: '1406',
-                    name: 'Samsung Galaxy S7 32GB (G930F}, Pink',
+                    name: 'Samsung Galaxy S7 32GB (G930F), Pink',
                     price_4: 950,
                     price_4p: 1100,
                     price_5: 1250,
@@ -12342,7 +12342,7 @@ export const TestData = {
 
             '1407': {
                     prodnom_id: '1407',
-                    name: 'Samsung Galaxy S7 32GB (G930F}, White',
+                    name: 'Samsung Galaxy S7 32GB (G930F), White',
                     price_4: 950,
                     price_4p: 1100,
                     price_5: 1250,
@@ -12351,7 +12351,7 @@ export const TestData = {
 
             '1408': {
                     prodnom_id: '1408',
-                    name: 'Samsung Galaxy S6 Single Sim 64GB (G920F}, Black Brilliant',
+                    name: 'Samsung Galaxy S6 Single Sim 64GB (G920F), Black Brilliant',
                     price_4: 600,
                     price_4p: 850,
                     price_5: 1000,
@@ -12360,7 +12360,7 @@ export const TestData = {
 
             '1409': {
                     prodnom_id: '1409',
-                    name: 'Samsung Galaxy S6 Single Sim 64GB (G920F}, Gold',
+                    name: 'Samsung Galaxy S6 Single Sim 64GB (G920F), Gold',
                     price_4: 600,
                     price_4p: 850,
                     price_5: 1000,
@@ -12369,7 +12369,7 @@ export const TestData = {
 
             '1410': {
                     prodnom_id: '1410',
-                    name: 'Samsung Galaxy S6 Single Sim 64GB (G920F}, Blue',
+                    name: 'Samsung Galaxy S6 Single Sim 64GB (G920F), Blue',
                     price_4: 600,
                     price_4p: 850,
                     price_5: 1000,
@@ -12378,7 +12378,7 @@ export const TestData = {
 
             '1411': {
                     prodnom_id: '1411',
-                    name: 'Samsung Galaxy S6 Single Sim 64GB (G920F}, Blue Topaz',
+                    name: 'Samsung Galaxy S6 Single Sim 64GB (G920F), Blue Topaz',
                     price_4: 600,
                     price_4p: 850,
                     price_5: 1000,
@@ -12387,7 +12387,7 @@ export const TestData = {
 
             '1412': {
                     prodnom_id: '1412',
-                    name: 'Samsung Galaxy S6 Single Sim 64GB (G920F}, Green Emerald',
+                    name: 'Samsung Galaxy S6 Single Sim 64GB (G920F), Green Emerald',
                     price_4: 600,
                     price_4p: 850,
                     price_5: 1000,
@@ -12396,7 +12396,7 @@ export const TestData = {
 
             '1413': {
                     prodnom_id: '1413',
-                    name: 'Samsung Galaxy S6 Single Sim 64GB (G920F}, White',
+                    name: 'Samsung Galaxy S6 Single Sim 64GB (G920F), White',
                     price_4: 600,
                     price_4p: 850,
                     price_5: 1000,
@@ -12405,7 +12405,7 @@ export const TestData = {
 
             '1414': {
                     prodnom_id: '1414',
-                    name: 'Samsung Galaxy S6 Single Sim 32GB (G920F}, Black Brilliant',
+                    name: 'Samsung Galaxy S6 Single Sim 32GB (G920F), Black Brilliant',
                     price_4: 550,
                     price_4p: 750,
                     price_5: 850,
@@ -12414,7 +12414,7 @@ export const TestData = {
 
             '1415': {
                     prodnom_id: '1415',
-                    name: 'Samsung Galaxy S6 Single Sim 32GB (G920F}, Gold',
+                    name: 'Samsung Galaxy S6 Single Sim 32GB (G920F), Gold',
                     price_4: 550,
                     price_4p: 750,
                     price_5: 850,
@@ -12423,7 +12423,7 @@ export const TestData = {
 
             '1416': {
                     prodnom_id: '1416',
-                    name: 'Samsung Galaxy S6 Single Sim 32GB (G920F}, Blue',
+                    name: 'Samsung Galaxy S6 Single Sim 32GB (G920F), Blue',
                     price_4: 550,
                     price_4p: 750,
                     price_5: 850,
@@ -12432,7 +12432,7 @@ export const TestData = {
 
             '1417': {
                     prodnom_id: '1417',
-                    name: 'Samsung Galaxy S6 Single Sim 32GB (G920F}, Blue Topaz',
+                    name: 'Samsung Galaxy S6 Single Sim 32GB (G920F), Blue Topaz',
                     price_4: 550,
                     price_4p: 750,
                     price_5: 850,
@@ -12441,7 +12441,7 @@ export const TestData = {
 
             '1418': {
                     prodnom_id: '1418',
-                    name: 'Samsung Galaxy S6 Single Sim 32GB (G920F}, Green Emerald',
+                    name: 'Samsung Galaxy S6 Single Sim 32GB (G920F), Green Emerald',
                     price_4: 550,
                     price_4p: 750,
                     price_5: 850,
@@ -12450,7 +12450,7 @@ export const TestData = {
 
             '1419': {
                     prodnom_id: '1419',
-                    name: 'Samsung Galaxy S6 Single Sim 32GB (G920F}, White',
+                    name: 'Samsung Galaxy S6 Single Sim 32GB (G920F), White',
                     price_4: 550,
                     price_4p: 750,
                     price_5: 850,
@@ -12513,7 +12513,7 @@ export const TestData = {
 
             '1426': {
                     prodnom_id: '1426',
-                    name: 'Samsung Galaxy S6 Edge 64GB (G925F}, Gold',
+                    name: 'Samsung Galaxy S6 Edge 64GB (G925F), Gold',
                     price_4: 700,
                     price_4p: 1000,
                     price_5: 1150,
@@ -12522,7 +12522,7 @@ export const TestData = {
 
             '1427': {
                     prodnom_id: '1427',
-                    name: 'Samsung Galaxy S6 Edge 64GB (G925F}, Blue Topaz',
+                    name: 'Samsung Galaxy S6 Edge 64GB (G925F), Blue Topaz',
                     price_4: 700,
                     price_4p: 1000,
                     price_5: 1150,
@@ -12531,7 +12531,7 @@ export const TestData = {
 
             '1428': {
                     prodnom_id: '1428',
-                    name: 'Samsung Galaxy S6 Edge 64GB (G925F}, Green Emerald',
+                    name: 'Samsung Galaxy S6 Edge 64GB (G925F), Green Emerald',
                     price_4: 700,
                     price_4p: 1000,
                     price_5: 1150,
@@ -12540,7 +12540,7 @@ export const TestData = {
 
             '1429': {
                     prodnom_id: '1429',
-                    name: 'Samsung Galaxy S6 Edge 64GB (G925F}, White',
+                    name: 'Samsung Galaxy S6 Edge 64GB (G925F), White',
                     price_4: 700,
                     price_4p: 1000,
                     price_5: 1150,
@@ -12549,7 +12549,7 @@ export const TestData = {
 
             '1430': {
                     prodnom_id: '1430',
-                    name: 'Samsung Galaxy S6 Edge 64GB (G925F}, Black Brilliant',
+                    name: 'Samsung Galaxy S6 Edge 64GB (G925F), Black Brilliant',
                     price_4: 700,
                     price_4p: 1000,
                     price_5: 1150,
@@ -12558,7 +12558,7 @@ export const TestData = {
 
             '1431': {
                     prodnom_id: '1431',
-                    name: 'Samsung Galaxy S6 Edge 64GB (G925F}, Blue',
+                    name: 'Samsung Galaxy S6 Edge 64GB (G925F), Blue',
                     price_4: 700,
                     price_4p: 1000,
                     price_5: 1150,
@@ -12621,7 +12621,7 @@ export const TestData = {
 
             '1438': {
                     prodnom_id: '1438',
-                    name: 'Samsung Galaxy S6 Edge 128GB (G925F}, Gold',
+                    name: 'Samsung Galaxy S6 Edge 128GB (G925F), Gold',
                     price_4: 700,
                     price_4p: 1000,
                     price_5: 1150,
@@ -12630,7 +12630,7 @@ export const TestData = {
 
             '1439': {
                     prodnom_id: '1439',
-                    name: 'Samsung Galaxy S6 Edge 128GB (G925F}, Blue Topaz',
+                    name: 'Samsung Galaxy S6 Edge 128GB (G925F), Blue Topaz',
                     price_4: 700,
                     price_4p: 1000,
                     price_5: 1150,
@@ -12639,7 +12639,7 @@ export const TestData = {
 
             '1440': {
                     prodnom_id: '1440',
-                    name: 'Samsung Galaxy S6 Edge 128GB (G925F}, Green Emerald',
+                    name: 'Samsung Galaxy S6 Edge 128GB (G925F), Green Emerald',
                     price_4: 700,
                     price_4p: 1000,
                     price_5: 1150,
@@ -12648,7 +12648,7 @@ export const TestData = {
 
             '1441': {
                     prodnom_id: '1441',
-                    name: 'Samsung Galaxy S6 Edge 128GB (G925F}, White',
+                    name: 'Samsung Galaxy S6 Edge 128GB (G925F), White',
                     price_4: 700,
                     price_4p: 1000,
                     price_5: 1150,
@@ -12657,7 +12657,7 @@ export const TestData = {
 
             '1442': {
                     prodnom_id: '1442',
-                    name: 'Samsung Galaxy S6 Edge 128GB (G925F}, Black Brilliant',
+                    name: 'Samsung Galaxy S6 Edge 128GB (G925F), Black Brilliant',
                     price_4: 700,
                     price_4p: 1000,
                     price_5: 1150,
@@ -12666,7 +12666,7 @@ export const TestData = {
 
             '1443': {
                     prodnom_id: '1443',
-                    name: 'Samsung Galaxy S6 Edge 128GB (G925F}, Blue',
+                    name: 'Samsung Galaxy S6 Edge 128GB (G925F), Blue',
                     price_4: 700,
                     price_4p: 1000,
                     price_5: 1150,
@@ -12675,7 +12675,7 @@ export const TestData = {
 
             '1444': {
                     prodnom_id: '1444',
-                    name: 'Samsung Galaxy S6 Duos 64GB (G920FD}, Black',
+                    name: 'Samsung Galaxy S6 Duos 64GB (G920FD), Black',
                     price_4: 600,
                     price_4p: 850,
                     price_5: 1000,
@@ -12684,7 +12684,7 @@ export const TestData = {
 
             '1445': {
                     prodnom_id: '1445',
-                    name: 'Samsung Galaxy S6 Duos 32GB (G920FD}, Black',
+                    name: 'Samsung Galaxy S6 Duos 32GB (G920FD), Black',
                     price_4: 600,
                     price_4p: 850,
                     price_5: 1000,
@@ -12693,7 +12693,7 @@ export const TestData = {
 
             '1446': {
                     prodnom_id: '1446',
-                    name: 'Samsung Galaxy S5 Mini Duos 16GB (G800H}, Charcoal Black',
+                    name: 'Samsung Galaxy S5 Mini Duos 16GB (G800H), Charcoal Black',
                     price_4: 300,
                     price_4p: 350,
                     price_5: 400,
@@ -12702,7 +12702,7 @@ export const TestData = {
 
             '1447': {
                     prodnom_id: '1447',
-                    name: 'Samsung Galaxy S5 Mini Duos 16GB (G800H}, Shimmery White',
+                    name: 'Samsung Galaxy S5 Mini Duos 16GB (G800H), Shimmery White',
                     price_4: 300,
                     price_4p: 350,
                     price_5: 400,
@@ -12711,7 +12711,7 @@ export const TestData = {
 
             '1448': {
                     prodnom_id: '1448',
-                    name: 'Samsung Galaxy S5 Mini Duos 16GB (G800H}, Electric Blue',
+                    name: 'Samsung Galaxy S5 Mini Duos 16GB (G800H), Electric Blue',
                     price_4: 300,
                     price_4p: 350,
                     price_5: 400,
@@ -12720,7 +12720,7 @@ export const TestData = {
 
             '1449': {
                     prodnom_id: '1449',
-                    name: 'Samsung Galaxy S5 Mini Duos 16GB (G800H}, Copper Gold',
+                    name: 'Samsung Galaxy S5 Mini Duos 16GB (G800H), Copper Gold',
                     price_4: 300,
                     price_4p: 350,
                     price_5: 400,
@@ -12729,7 +12729,7 @@ export const TestData = {
 
             '1450': {
                     prodnom_id: '1450',
-                    name: 'Samsung Galaxy S5 Mini 16GB (G800H}, Charcoal Black',
+                    name: 'Samsung Galaxy S5 Mini 16GB (G800H), Charcoal Black',
                     price_4: 300,
                     price_4p: 350,
                     price_5: 400,
@@ -12738,7 +12738,7 @@ export const TestData = {
 
             '1451': {
                     prodnom_id: '1451',
-                    name: 'Samsung Galaxy S5 Mini Duos 16GB (G800H}, Shimmery White',
+                    name: 'Samsung Galaxy S5 Mini Duos 16GB (G800H), Shimmery White',
                     price_4: 300,
                     price_4p: 350,
                     price_5: 400,
@@ -12747,7 +12747,7 @@ export const TestData = {
 
             '1452': {
                     prodnom_id: '1452',
-                    name: 'Samsung Galaxy S5 Mini Duos 16GB (G800H}, Electric Blue',
+                    name: 'Samsung Galaxy S5 Mini Duos 16GB (G800H), Electric Blue',
                     price_4: 300,
                     price_4p: 350,
                     price_5: 400,
@@ -12756,7 +12756,7 @@ export const TestData = {
 
             '1453': {
                     prodnom_id: '1453',
-                    name: 'Samsung Galaxy S5 Mini Duos 16GB (G800H}, Copper Gold',
+                    name: 'Samsung Galaxy S5 Mini Duos 16GB (G800H), Copper Gold',
                     price_4: 300,
                     price_4p: 350,
                     price_5: 400,
@@ -12765,7 +12765,7 @@ export const TestData = {
 
             '1454': {
                     prodnom_id: '1454',
-                    name: 'Samsung Galaxy S5 16GB (G900H}, Gold',
+                    name: 'Samsung Galaxy S5 16GB (G900H), Gold',
                     price_4: 350,
                     price_4p: 450,
                     price_5: 500,
@@ -12774,7 +12774,7 @@ export const TestData = {
 
             '1455': {
                     prodnom_id: '1455',
-                    name: 'Samsung Galaxy S5 16GB (G900H}, Black',
+                    name: 'Samsung Galaxy S5 16GB (G900H), Black',
                     price_4: 350,
                     price_4p: 450,
                     price_5: 500,
@@ -12783,7 +12783,7 @@ export const TestData = {
 
             '1456': {
                     prodnom_id: '1456',
-                    name: 'Samsung Galaxy S5 16GB (G900H}, Blue',
+                    name: 'Samsung Galaxy S5 16GB (G900H), Blue',
                     price_4: 350,
                     price_4p: 450,
                     price_5: 500,
@@ -12792,7 +12792,7 @@ export const TestData = {
 
             '1457': {
                     prodnom_id: '1457',
-                    name: 'Samsung Galaxy S5 16GB (G900H}, White',
+                    name: 'Samsung Galaxy S5 16GB (G900H), White',
                     price_4: 350,
                     price_4p: 450,
                     price_5: 500,
@@ -12801,7 +12801,7 @@ export const TestData = {
 
             '1458': {
                     prodnom_id: '1458',
-                    name: 'Samsung Galaxy S4 Mini Duos (I9192}, 8GB Black',
+                    name: 'Samsung Galaxy S4 Mini Duos (I9192), 8GB Black',
                     price_4: 300,
                     price_4p: 350,
                     price_5: 400,
@@ -12810,7 +12810,7 @@ export const TestData = {
 
             '1459': {
                     prodnom_id: '1459',
-                    name: 'Samsung Galaxy S4 Mini Duos (I9192}, 8GB Red',
+                    name: 'Samsung Galaxy S4 Mini Duos (I9192), 8GB Red',
                     price_4: 300,
                     price_4p: 350,
                     price_5: 400,
@@ -12819,7 +12819,7 @@ export const TestData = {
 
             '1460': {
                     prodnom_id: '1460',
-                    name: 'Samsung Galaxy S4 Mini Duos (I9192}, 8GB White',
+                    name: 'Samsung Galaxy S4 Mini Duos (I9192), 8GB White',
                     price_4: 300,
                     price_4p: 350,
                     price_5: 400,
@@ -12828,7 +12828,7 @@ export const TestData = {
 
             '1461': {
                     prodnom_id: '1461',
-                    name: 'Samsung Galaxy S4 Mini Duos (I9192}, 8GB Orange',
+                    name: 'Samsung Galaxy S4 Mini Duos (I9192), 8GB Orange',
                     price_4: 300,
                     price_4p: 350,
                     price_5: 400,
@@ -12837,7 +12837,7 @@ export const TestData = {
 
             '1462': {
                     prodnom_id: '1462',
-                    name: 'Samsung Galaxy S4 Active (I9295}, 16GB Blue',
+                    name: 'Samsung Galaxy S4 Active (I9295), 16GB Blue',
                     price_4: 350,
                     price_4p: 450,
                     price_5: 500,
@@ -12846,7 +12846,7 @@ export const TestData = {
 
             '1463': {
                     prodnom_id: '1463',
-                    name: 'Samsung Galaxy S4 Active (I9295}, 16GB Grey',
+                    name: 'Samsung Galaxy S4 Active (I9295), 16GB Grey',
                     price_4: 350,
                     price_4p: 450,
                     price_5: 500,
@@ -12855,7 +12855,7 @@ export const TestData = {
 
             '1464': {
                     prodnom_id: '1464',
-                    name: 'Samsung Galaxy S4 Active (I9295}, 16GB Orange',
+                    name: 'Samsung Galaxy S4 Active (I9295), 16GB Orange',
                     price_4: 350,
                     price_4p: 450,
                     price_5: 500,
@@ -12864,7 +12864,7 @@ export const TestData = {
 
             '1465': {
                     prodnom_id: '1465',
-                    name: 'Samsung Galaxy S4 (I9500}, 16GB Black',
+                    name: 'Samsung Galaxy S4 (I9500), 16GB Black',
                     price_4: 350,
                     price_4p: 450,
                     price_5: 500,
@@ -12873,7 +12873,7 @@ export const TestData = {
 
             '1466': {
                     prodnom_id: '1466',
-                    name: 'Samsung Galaxy S4 (I9500}, 16GB Blue',
+                    name: 'Samsung Galaxy S4 (I9500), 16GB Blue',
                     price_4: 350,
                     price_4p: 450,
                     price_5: 500,
@@ -12882,7 +12882,7 @@ export const TestData = {
 
             '1467': {
                     prodnom_id: '1467',
-                    name: 'Samsung Galaxy S4 (I9500}, 16GB Brown',
+                    name: 'Samsung Galaxy S4 (I9500), 16GB Brown',
                     price_4: 350,
                     price_4p: 450,
                     price_5: 500,
@@ -12891,7 +12891,7 @@ export const TestData = {
 
             '1468': {
                     prodnom_id: '1468',
-                    name: 'Samsung Galaxy S4 (I9500}, 16GB La Fleur',
+                    name: 'Samsung Galaxy S4 (I9500), 16GB La Fleur',
                     price_4: 350,
                     price_4p: 450,
                     price_5: 500,
@@ -12900,7 +12900,7 @@ export const TestData = {
 
             '1469': {
                     prodnom_id: '1469',
-                    name: 'Samsung Galaxy S4 (I9500}, 16GB Red',
+                    name: 'Samsung Galaxy S4 (I9500), 16GB Red',
                     price_4: 350,
                     price_4p: 450,
                     price_5: 500,
@@ -12909,7 +12909,7 @@ export const TestData = {
 
             '1470': {
                     prodnom_id: '1470',
-                    name: 'Samsung Galaxy S4 (I9500}, 16GB White La Fleur',
+                    name: 'Samsung Galaxy S4 (I9500), 16GB White La Fleur',
                     price_4: 350,
                     price_4p: 450,
                     price_5: 500,
@@ -12918,7 +12918,7 @@ export const TestData = {
 
             '1471': {
                     prodnom_id: '1471',
-                    name: 'Samsung Galaxy S4 (I9500}, 16GB White',
+                    name: 'Samsung Galaxy S4 (I9500), 16GB White',
                     price_4: 350,
                     price_4p: 450,
                     price_5: 500,
@@ -12927,7 +12927,7 @@ export const TestData = {
 
             '1472': {
                     prodnom_id: '1472',
-                    name: 'Samsung Galaxy S3 Neo (I9301I}, 16GB White',
+                    name: 'Samsung Galaxy S3 Neo (I9301I), 16GB White',
                     price_4: 300,
                     price_4p: 350,
                     price_5: 400,
@@ -12936,7 +12936,7 @@ export const TestData = {
 
             '1473': {
                     prodnom_id: '1473',
-                    name: 'Samsung Galaxy S3 Neo (I9301I}, 16GB Black',
+                    name: 'Samsung Galaxy S3 Neo (I9301I), 16GB Black',
                     price_4: 300,
                     price_4p: 350,
                     price_5: 400,
@@ -12945,7 +12945,7 @@ export const TestData = {
 
             '1474': {
                     prodnom_id: '1474',
-                    name: 'Samsung Galaxy S3 Neo (I9301I}, 16GB Blue',
+                    name: 'Samsung Galaxy S3 Neo (I9301I), 16GB Blue',
                     price_4: 300,
                     price_4p: 350,
                     price_5: 400,
@@ -12954,7 +12954,7 @@ export const TestData = {
 
             '1475': {
                     prodnom_id: '1475',
-                    name: 'Samsung Galaxy S3 (I9300}, 16GB Black',
+                    name: 'Samsung Galaxy S3 (I9300), 16GB Black',
                     price_4: 300,
                     price_4p: 400,
                     price_5: 450,
@@ -12963,7 +12963,7 @@ export const TestData = {
 
             '1476': {
                     prodnom_id: '1476',
-                    name: 'Samsung Galaxy S3 (I9300}, 16GB White',
+                    name: 'Samsung Galaxy S3 (I9300), 16GB White',
                     price_4: 300,
                     price_4p: 400,
                     price_5: 450,
@@ -12972,7 +12972,7 @@ export const TestData = {
 
             '1477': {
                     prodnom_id: '1477',
-                    name: 'Samsung Galaxy S3 (I9300}, 16GB Blue',
+                    name: 'Samsung Galaxy S3 (I9300), 16GB Blue',
                     price_4: 300,
                     price_4p: 400,
                     price_5: 450,
@@ -12981,7 +12981,7 @@ export const TestData = {
 
             '1478': {
                     prodnom_id: '1478',
-                    name: 'Samsung Galaxy S3 (I9300}, 16GB Red',
+                    name: 'Samsung Galaxy S3 (I9300), 16GB Red',
                     price_4: 300,
                     price_4p: 400,
                     price_5: 450,
@@ -12990,7 +12990,7 @@ export const TestData = {
 
             '1479': {
                     prodnom_id: '1479',
-                    name: 'Samsung Galaxy S3 (I9300}, 16GB Brown',
+                    name: 'Samsung Galaxy S3 (I9300), 16GB Brown',
                     price_4: 300,
                     price_4p: 400,
                     price_5: 450,
@@ -12999,7 +12999,7 @@ export const TestData = {
 
             '1480': {
                     prodnom_id: '1480',
-                    name: 'Samsung Galaxy S10+ 128GB (G975F}, Black',
+                    name: 'Samsung Galaxy S10+ 128GB (G975F), Black',
                     price_4: 4500,
                     price_4p: 5300,
                     price_5: 6200,
@@ -13008,7 +13008,7 @@ export const TestData = {
 
             '1481': {
                     prodnom_id: '1481',
-                    name: 'Samsung Galaxy S10+ 128GB (G975F}, White',
+                    name: 'Samsung Galaxy S10+ 128GB (G975F), White',
                     price_4: 4500,
                     price_4p: 5300,
                     price_5: 6200,
@@ -13017,7 +13017,7 @@ export const TestData = {
 
             '1482': {
                     prodnom_id: '1482',
-                    name: 'Samsung Galaxy S10+ 128GB (G975F}, Red',
+                    name: 'Samsung Galaxy S10+ 128GB (G975F), Red',
                     price_4: 4500,
                     price_4p: 5300,
                     price_5: 6200,
@@ -13026,7 +13026,7 @@ export const TestData = {
 
             '1483': {
                     prodnom_id: '1483',
-                    name: 'Samsung Galaxy S10+ 128GB (G975F}, Green',
+                    name: 'Samsung Galaxy S10+ 128GB (G975F), Green',
                     price_4: 4500,
                     price_4p: 5300,
                     price_5: 6200,
@@ -13035,7 +13035,7 @@ export const TestData = {
 
             '1484': {
                     prodnom_id: '1484',
-                    name: 'Samsung Galaxy Note 9 128GB (N960F}, Metallic Copper',
+                    name: 'Samsung Galaxy Note 9 128GB (N960F), Metallic Copper',
                     price_4: 3850,
                     price_4p: 4600,
                     price_5: 5200,
@@ -13044,7 +13044,7 @@ export const TestData = {
 
             '1485': {
                     prodnom_id: '1485',
-                    name: 'Samsung Galaxy Note 9 128GB (N960F}, Lavender Purple',
+                    name: 'Samsung Galaxy Note 9 128GB (N960F), Lavender Purple',
                     price_4: 3850,
                     price_4p: 4600,
                     price_5: 5200,
@@ -13053,7 +13053,7 @@ export const TestData = {
 
             '1486': {
                     prodnom_id: '1486',
-                    name: 'Samsung Galaxy Note 9 128GB (N960F}, Ocean Blue',
+                    name: 'Samsung Galaxy Note 9 128GB (N960F), Ocean Blue',
                     price_4: 3850,
                     price_4p: 4600,
                     price_5: 5200,
@@ -13062,7 +13062,7 @@ export const TestData = {
 
             '1487': {
                     prodnom_id: '1487',
-                    name: 'Samsung Galaxy Note 9 128GB (N960F}, Midnight Black',
+                    name: 'Samsung Galaxy Note 9 128GB (N960F), Midnight Black',
                     price_4: 3850,
                     price_4p: 4600,
                     price_5: 5200,
@@ -13071,7 +13071,7 @@ export const TestData = {
 
             '1488': {
                     prodnom_id: '1488',
-                    name: 'Samsung Galaxy Note 9 128GB (N960F}, Pure White',
+                    name: 'Samsung Galaxy Note 9 128GB (N960F), Pure White',
                     price_4: 3850,
                     price_4p: 4600,
                     price_5: 5200,
@@ -13080,7 +13080,7 @@ export const TestData = {
 
             '1489': {
                     prodnom_id: '1489',
-                    name: 'Samsung Galaxy Note 9 128GB (N960F}, Blue',
+                    name: 'Samsung Galaxy Note 9 128GB (N960F), Blue',
                     price_4: 3850,
                     price_4p: 4600,
                     price_5: 5200,
@@ -13089,7 +13089,7 @@ export const TestData = {
 
             '1490': {
                     prodnom_id: '1490',
-                    name: 'Samsung Galaxy Note 8 64GB (N950F}, Midnight Black',
+                    name: 'Samsung Galaxy Note 8 64GB (N950F), Midnight Black',
                     price_4: 2100,
                     price_4p: 2750,
                     price_5: 3200,
@@ -13098,7 +13098,7 @@ export const TestData = {
 
             '1491': {
                     prodnom_id: '1491',
-                    name: 'Samsung Galaxy Note 8 64GB (N950F}, Maple Gold',
+                    name: 'Samsung Galaxy Note 8 64GB (N950F), Maple Gold',
                     price_4: 2100,
                     price_4p: 2750,
                     price_5: 3200,
@@ -13107,7 +13107,7 @@ export const TestData = {
 
             '1492': {
                     prodnom_id: '1492',
-                    name: 'Samsung Galaxy Note 8 64GB (N950F}, Orchid Gray',
+                    name: 'Samsung Galaxy Note 8 64GB (N950F), Orchid Gray',
                     price_4: 2100,
                     price_4p: 2750,
                     price_5: 3200,
@@ -13116,7 +13116,7 @@ export const TestData = {
 
             '1493': {
                     prodnom_id: '1493',
-                    name: 'Samsung Galaxy Note 8 64GB (N950F}, Deep Sea blue',
+                    name: 'Samsung Galaxy Note 8 64GB (N950F), Deep Sea blue',
                     price_4: 2100,
                     price_4p: 2750,
                     price_5: 3200,
@@ -13125,7 +13125,7 @@ export const TestData = {
 
             '1494': {
                     prodnom_id: '1494',
-                    name: 'Samsung Galaxy Note 8 64GB (N950F}, Star Pink',
+                    name: 'Samsung Galaxy Note 8 64GB (N950F), Star Pink',
                     price_4: 2100,
                     price_4p: 2750,
                     price_5: 3200,
@@ -13134,7 +13134,7 @@ export const TestData = {
 
             '1495': {
                     prodnom_id: '1495',
-                    name: 'Samsung Galaxy Note 5 32GB (N920C}, Pink',
+                    name: 'Samsung Galaxy Note 5 32GB (N920C), Pink',
                     price_4: 850,
                     price_4p: 1100,
                     price_5: 1250,
@@ -13143,7 +13143,7 @@ export const TestData = {
 
             '1496': {
                     prodnom_id: '1496',
-                    name: 'Samsung Galaxy Note 5 32GB (N920C}, Black Sapphire',
+                    name: 'Samsung Galaxy Note 5 32GB (N920C), Black Sapphire',
                     price_4: 850,
                     price_4p: 1100,
                     price_5: 1250,
@@ -13152,7 +13152,7 @@ export const TestData = {
 
             '1497': {
                     prodnom_id: '1497',
-                    name: 'Samsung Galaxy Note 5 32GB (N920C}, Gold Platinum',
+                    name: 'Samsung Galaxy Note 5 32GB (N920C), Gold Platinum',
                     price_4: 850,
                     price_4p: 1100,
                     price_5: 1250,
@@ -13161,7 +13161,7 @@ export const TestData = {
 
             '1498': {
                     prodnom_id: '1498',
-                    name: 'Samsung Galaxy Note 5 32GB (N920C}, Silver Titan',
+                    name: 'Samsung Galaxy Note 5 32GB (N920C), Silver Titan',
                     price_4: 850,
                     price_4p: 1100,
                     price_5: 1250,
@@ -13170,7 +13170,7 @@ export const TestData = {
 
             '1499': {
                     prodnom_id: '1499',
-                    name: 'Samsung Galaxy Note 5 32GB (N920C}, White Pearl',
+                    name: 'Samsung Galaxy Note 5 32GB (N920C), White Pearl',
                     price_4: 850,
                     price_4p: 1100,
                     price_5: 1250,
@@ -13179,7 +13179,7 @@ export const TestData = {
 
             '1500': {
                     prodnom_id: '1500',
-                    name: 'Samsung Galaxy Note 5 32GB (N920C}, Blue Topaz',
+                    name: 'Samsung Galaxy Note 5 32GB (N920C), Blue Topaz',
                     price_4: 850,
                     price_4p: 1100,
                     price_5: 1250,
@@ -13188,7 +13188,7 @@ export const TestData = {
 
             '1501': {
                     prodnom_id: '1501',
-                    name: 'Samsung Galaxy Note 4 32 GB (N910H}, Bronze Gold',
+                    name: 'Samsung Galaxy Note 4 32 GB (N910H), Bronze Gold',
                     price_4: 600,
                     price_4p: 850,
                     price_5: 1000,
@@ -13197,7 +13197,7 @@ export const TestData = {
 
             '1502': {
                     prodnom_id: '1502',
-                    name: 'Samsung Galaxy Note 4 32 GB (N910H}, Blossom Pink',
+                    name: 'Samsung Galaxy Note 4 32 GB (N910H), Blossom Pink',
                     price_4: 600,
                     price_4p: 850,
                     price_5: 1000,
@@ -13206,7 +13206,7 @@ export const TestData = {
 
             '1503': {
                     prodnom_id: '1503',
-                    name: 'Samsung Galaxy Note 4 32 GB (N910H}, Frosted White',
+                    name: 'Samsung Galaxy Note 4 32 GB (N910H), Frosted White',
                     price_4: 600,
                     price_4p: 850,
                     price_5: 1000,
@@ -13215,7 +13215,7 @@ export const TestData = {
 
             '1504': {
                     prodnom_id: '1504',
-                    name: 'Samsung Galaxy Note 4 32 GB (N910H}, Charcoal Black',
+                    name: 'Samsung Galaxy Note 4 32 GB (N910H), Charcoal Black',
                     price_4: 600,
                     price_4p: 850,
                     price_5: 1000,
@@ -13260,7 +13260,7 @@ export const TestData = {
 
             '1509': {
                     prodnom_id: '1509',
-                    name: 'Samsung Galaxy Note 3 (N9000}, 32GB Black',
+                    name: 'Samsung Galaxy Note 3 (N9000), 32GB Black',
                     price_4: 400,
                     price_4p: 600,
                     price_5: 650,
@@ -13269,7 +13269,7 @@ export const TestData = {
 
             '1510': {
                     prodnom_id: '1510',
-                    name: 'Samsung Galaxy Note 3 (N9000}, 32GB White',
+                    name: 'Samsung Galaxy Note 3 (N9000), 32GB White',
                     price_4: 400,
                     price_4p: 600,
                     price_5: 650,
@@ -13305,7 +13305,7 @@ export const TestData = {
 
             '1514': {
                     prodnom_id: '1514',
-                    name: 'Samsung Galaxy J7 Prime 32GB (G610F}, Black',
+                    name: 'Samsung Galaxy J7 Prime 32GB (G610F), Black',
                     price_4: 550,
                     price_4p: 750,
                     price_5: 850,
@@ -13314,7 +13314,7 @@ export const TestData = {
 
             '1515': {
                     prodnom_id: '1515',
-                    name: 'Samsung Galaxy J7 Prime 32GB (G610F}, Gold',
+                    name: 'Samsung Galaxy J7 Prime 32GB (G610F), Gold',
                     price_4: 550,
                     price_4p: 750,
                     price_5: 850,
@@ -13323,7 +13323,7 @@ export const TestData = {
 
             '1516': {
                     prodnom_id: '1516',
-                    name: 'Samsung Galaxy J7 Prime 32GB (G610F}, Rose Gold',
+                    name: 'Samsung Galaxy J7 Prime 32GB (G610F), Rose Gold',
                     price_4: 550,
                     price_4p: 750,
                     price_5: 850,
@@ -13332,7 +13332,7 @@ export const TestData = {
 
             '1517': {
                     prodnom_id: '1517',
-                    name: 'Samsung Galaxy J7 Neo (J701F}, 16GB Black',
+                    name: 'Samsung Galaxy J7 Neo (J701F), 16GB Black',
                     price_4: 550,
                     price_4p: 750,
                     price_5: 850,
@@ -13341,7 +13341,7 @@ export const TestData = {
 
             '1518': {
                     prodnom_id: '1518',
-                    name: 'Samsung Galaxy J7 Neo (J701F}, 16GB Gold',
+                    name: 'Samsung Galaxy J7 Neo (J701F), 16GB Gold',
                     price_4: 550,
                     price_4p: 750,
                     price_5: 850,
@@ -13350,7 +13350,7 @@ export const TestData = {
 
             '1519': {
                     prodnom_id: '1519',
-                    name: 'Samsung Galaxy J7 Neo (J701F}, 16GB Silver',
+                    name: 'Samsung Galaxy J7 Neo (J701F), 16GB Silver',
                     price_4: 550,
                     price_4p: 750,
                     price_5: 850,
@@ -13359,7 +13359,7 @@ export const TestData = {
 
             '1520': {
                     prodnom_id: '1520',
-                    name: 'Samsung Galaxy J7 2017 16GB (J730F}, Black',
+                    name: 'Samsung Galaxy J7 2017 16GB (J730F), Black',
                     price_4: 750,
                     price_4p: 1000,
                     price_5: 1100,
@@ -13368,7 +13368,7 @@ export const TestData = {
 
             '1521': {
                     prodnom_id: '1521',
-                    name: 'Samsung Galaxy J7 2017 16GB (J730F}, Gold',
+                    name: 'Samsung Galaxy J7 2017 16GB (J730F), Gold',
                     price_4: 750,
                     price_4p: 1000,
                     price_5: 1100,
@@ -13377,7 +13377,7 @@ export const TestData = {
 
             '1522': {
                     prodnom_id: '1522',
-                    name: 'Samsung Galaxy J7 2017 16GB (J730F}, Rose Gold',
+                    name: 'Samsung Galaxy J7 2017 16GB (J730F), Rose Gold',
                     price_4: 750,
                     price_4p: 1000,
                     price_5: 1100,
@@ -13386,7 +13386,7 @@ export const TestData = {
 
             '1523': {
                     prodnom_id: '1523',
-                    name: 'Samsung Galaxy J7 2017 16GB (J730F}, Blue',
+                    name: 'Samsung Galaxy J7 2017 16GB (J730F), Blue',
                     price_4: 750,
                     price_4p: 1000,
                     price_5: 1100,
@@ -13395,7 +13395,7 @@ export const TestData = {
 
             '1524': {
                     prodnom_id: '1524',
-                    name: 'Samsung Galaxy J7 2017 16GB (J730F}, Silver',
+                    name: 'Samsung Galaxy J7 2017 16GB (J730F), Silver',
                     price_4: 750,
                     price_4p: 1000,
                     price_5: 1100,
@@ -13404,7 +13404,7 @@ export const TestData = {
 
             '1525': {
                     prodnom_id: '1525',
-                    name: 'Samsung Galaxy J7 2016 16GB (J710H}, Gold',
+                    name: 'Samsung Galaxy J7 2016 16GB (J710H), Gold',
                     price_4: 600,
                     price_4p: 850,
                     price_5: 1000,
@@ -13413,7 +13413,7 @@ export const TestData = {
 
             '1526': {
                     prodnom_id: '1526',
-                    name: 'Samsung Galaxy J7 2016 16GB (J710H}, Rose Gold',
+                    name: 'Samsung Galaxy J7 2016 16GB (J710H), Rose Gold',
                     price_4: 600,
                     price_4p: 850,
                     price_5: 1000,
@@ -13422,7 +13422,7 @@ export const TestData = {
 
             '1527': {
                     prodnom_id: '1527',
-                    name: 'Samsung Galaxy J7 2016 16GB (J710H}, White',
+                    name: 'Samsung Galaxy J7 2016 16GB (J710H), White',
                     price_4: 600,
                     price_4p: 850,
                     price_5: 1000,
@@ -13431,7 +13431,7 @@ export const TestData = {
 
             '1528': {
                     prodnom_id: '1528',
-                    name: 'Samsung Galaxy J7 2016 16GB (J710H}, Blue',
+                    name: 'Samsung Galaxy J7 2016 16GB (J710H), Blue',
                     price_4: 600,
                     price_4p: 850,
                     price_5: 1000,
@@ -13440,7 +13440,7 @@ export const TestData = {
 
             '1529': {
                     prodnom_id: '1529',
-                    name: 'Samsung Galaxy J7 2016 16GB (J710H}, Black',
+                    name: 'Samsung Galaxy J7 2016 16GB (J710H), Black',
                     price_4: 600,
                     price_4p: 850,
                     price_5: 1000,
@@ -13449,7 +13449,7 @@ export const TestData = {
 
             '1530': {
                     prodnom_id: '1530',
-                    name: 'Samsung Galaxy J7 2015 (J700H}, 16GB Black',
+                    name: 'Samsung Galaxy J7 2015 (J700H), 16GB Black',
                     price_4: 450,
                     price_4p: 600,
                     price_5: 650,
@@ -13458,7 +13458,7 @@ export const TestData = {
 
             '1531': {
                     prodnom_id: '1531',
-                    name: 'Samsung Galaxy J7 2015 (J700H}, 16GB Gold',
+                    name: 'Samsung Galaxy J7 2015 (J700H), 16GB Gold',
                     price_4: 450,
                     price_4p: 600,
                     price_5: 650,
@@ -13467,7 +13467,7 @@ export const TestData = {
 
             '1532': {
                     prodnom_id: '1532',
-                    name: 'Samsung Galaxy J7 2015 (J700H}, 16GB Silver',
+                    name: 'Samsung Galaxy J7 2015 (J700H), 16GB Silver',
                     price_4: 450,
                     price_4p: 600,
                     price_5: 650,
@@ -13476,7 +13476,7 @@ export const TestData = {
 
             '1533': {
                     prodnom_id: '1533',
-                    name: 'Samsung Galaxy J6 Plus 2018 (J610F}, 32GB Black',
+                    name: 'Samsung Galaxy J6 Plus 2018 (J610F), 32GB Black',
                     price_4: 900,
                     price_4p: 1050,
                     price_5: 1150,
@@ -13485,7 +13485,7 @@ export const TestData = {
 
             '1534': {
                     prodnom_id: '1534',
-                    name: 'Samsung Galaxy J6 Plus 2018 (J610F}, 32GB Gold',
+                    name: 'Samsung Galaxy J6 Plus 2018 (J610F), 32GB Gold',
                     price_4: 900,
                     price_4p: 1050,
                     price_5: 1150,
@@ -13494,7 +13494,7 @@ export const TestData = {
 
             '1535': {
                     prodnom_id: '1535',
-                    name: 'Samsung Galaxy J6 Plus 2018 (J610F}, 32GB Silver',
+                    name: 'Samsung Galaxy J6 Plus 2018 (J610F), 32GB Silver',
                     price_4: 900,
                     price_4p: 1050,
                     price_5: 1150,
@@ -13503,7 +13503,7 @@ export const TestData = {
 
             '1536': {
                     prodnom_id: '1536',
-                    name: 'Samsung Galaxy J6 2018 (J600F}, 32GB Black',
+                    name: 'Samsung Galaxy J6 2018 (J600F), 32GB Black',
                     price_4: 850,
                     price_4p: 1050,
                     price_5: 1150,
@@ -13512,7 +13512,7 @@ export const TestData = {
 
             '1537': {
                     prodnom_id: '1537',
-                    name: 'Samsung Galaxy J6 2018 (J600F}, 32GB Gold',
+                    name: 'Samsung Galaxy J6 2018 (J600F), 32GB Gold',
                     price_4: 850,
                     price_4p: 1050,
                     price_5: 1150,
@@ -13521,7 +13521,7 @@ export const TestData = {
 
             '1538': {
                     prodnom_id: '1538',
-                    name: 'Samsung Galaxy J6 2018 (J600F}, 32GB Silver',
+                    name: 'Samsung Galaxy J6 2018 (J600F), 32GB Silver',
                     price_4: 850,
                     price_4p: 1050,
                     price_5: 1150,
@@ -13530,7 +13530,7 @@ export const TestData = {
 
             '1539': {
                     prodnom_id: '1539',
-                    name: 'Samsung Galaxy J5 Prime 16GB (G570F}, Black',
+                    name: 'Samsung Galaxy J5 Prime 16GB (G570F), Black',
                     price_4: 600,
                     price_4p: 750,
                     price_5: 800,
@@ -13539,7 +13539,7 @@ export const TestData = {
 
             '1540': {
                     prodnom_id: '1540',
-                    name: 'Samsung Galaxy J5 Prime 16GB (G570F}, Gold',
+                    name: 'Samsung Galaxy J5 Prime 16GB (G570F), Gold',
                     price_4: 600,
                     price_4p: 750,
                     price_5: 800,
@@ -13548,7 +13548,7 @@ export const TestData = {
 
             '1541': {
                     prodnom_id: '1541',
-                    name: 'Samsung Galaxy J5 Prime 16GB (G570F}, Pink',
+                    name: 'Samsung Galaxy J5 Prime 16GB (G570F), Pink',
                     price_4: 600,
                     price_4p: 750,
                     price_5: 800,
@@ -13557,7 +13557,7 @@ export const TestData = {
 
             '1542': {
                     prodnom_id: '1542',
-                    name: 'Samsung Galaxy J5 2017 (J530F}, 16GB Black',
+                    name: 'Samsung Galaxy J5 2017 (J530F), 16GB Black',
                     price_4: 650,
                     price_4p: 750,
                     price_5: 900,
@@ -13566,7 +13566,7 @@ export const TestData = {
 
             '1543': {
                     prodnom_id: '1543',
-                    name: 'Samsung Galaxy J5 2017 (J530F}, 16GB Gold',
+                    name: 'Samsung Galaxy J5 2017 (J530F), 16GB Gold',
                     price_4: 650,
                     price_4p: 750,
                     price_5: 900,
@@ -13575,7 +13575,7 @@ export const TestData = {
 
             '1544': {
                     prodnom_id: '1544',
-                    name: 'Samsung Galaxy J5 2017 (J530F}, 16GB Silver',
+                    name: 'Samsung Galaxy J5 2017 (J530F), 16GB Silver',
                     price_4: 650,
                     price_4p: 750,
                     price_5: 900,
@@ -13584,7 +13584,7 @@ export const TestData = {
 
             '1545': {
                     prodnom_id: '1545',
-                    name: 'Samsung Galaxy J5 2016 16GB (J510H}, White',
+                    name: 'Samsung Galaxy J5 2016 16GB (J510H), White',
                     price_4: 500,
                     price_4p: 600,
                     price_5: 700,
@@ -13593,7 +13593,7 @@ export const TestData = {
 
             '1546': {
                     prodnom_id: '1546',
-                    name: 'Samsung Galaxy J5 2016 16GB (J510H}, Black',
+                    name: 'Samsung Galaxy J5 2016 16GB (J510H), Black',
                     price_4: 500,
                     price_4p: 600,
                     price_5: 700,
@@ -13602,7 +13602,7 @@ export const TestData = {
 
             '1547': {
                     prodnom_id: '1547',
-                    name: 'Samsung Galaxy J5 2016 16GB (J510H}, Gold',
+                    name: 'Samsung Galaxy J5 2016 16GB (J510H), Gold',
                     price_4: 500,
                     price_4p: 600,
                     price_5: 700,
@@ -13611,7 +13611,7 @@ export const TestData = {
 
             '1548': {
                     prodnom_id: '1548',
-                    name: 'Samsung Galaxy J5 2015 8GB (J500H}, White',
+                    name: 'Samsung Galaxy J5 2015 8GB (J500H), White',
                     price_4: 350,
                     price_4p: 400,
                     price_5: 450,
@@ -13620,7 +13620,7 @@ export const TestData = {
 
             '1549': {
                     prodnom_id: '1549',
-                    name: 'Samsung Galaxy J5 2015 8GB (J500H}, Black',
+                    name: 'Samsung Galaxy J5 2015 8GB (J500H), Black',
                     price_4: 350,
                     price_4p: 400,
                     price_5: 450,
@@ -13629,7 +13629,7 @@ export const TestData = {
 
             '1550': {
                     prodnom_id: '1550',
-                    name: 'Samsung Galaxy J5 2015 8GB (J500H}, Gold',
+                    name: 'Samsung Galaxy J5 2015 8GB (J500H), Gold',
                     price_4: 350,
                     price_4p: 400,
                     price_5: 450,
@@ -13638,7 +13638,7 @@ export const TestData = {
 
             '1551': {
                     prodnom_id: '1551',
-                    name: 'Samsung Galaxy J4+ 2018 (J415}, 16GB Black',
+                    name: 'Samsung Galaxy J4+ 2018 (J415), 16GB Black',
                     price_4: 700,
                     price_4p: 850,
                     price_5: 1000,
@@ -13647,7 +13647,7 @@ export const TestData = {
 
             '1552': {
                     prodnom_id: '1552',
-                    name: 'Samsung Galaxy J4+ 2018 (J415}, 16GB Gold',
+                    name: 'Samsung Galaxy J4+ 2018 (J415), 16GB Gold',
                     price_4: 700,
                     price_4p: 850,
                     price_5: 1000,
@@ -13656,7 +13656,7 @@ export const TestData = {
 
             '1553': {
                     prodnom_id: '1553',
-                    name: 'Samsung Galaxy J4+ 2018 (J415}, 16GB Silver',
+                    name: 'Samsung Galaxy J4+ 2018 (J415), 16GB Silver',
                     price_4: 700,
                     price_4p: 850,
                     price_5: 1000,
@@ -13665,7 +13665,7 @@ export const TestData = {
 
             '1554': {
                     prodnom_id: '1554',
-                    name: 'Samsung Galaxy J4 2018 (J400F}, 16GB Black',
+                    name: 'Samsung Galaxy J4 2018 (J400F), 16GB Black',
                     price_4: 700,
                     price_4p: 850,
                     price_5: 1000,
@@ -13674,7 +13674,7 @@ export const TestData = {
 
             '1555': {
                     prodnom_id: '1555',
-                    name: 'Samsung Galaxy J4 2018 (J400F}, 16GB Gold',
+                    name: 'Samsung Galaxy J4 2018 (J400F), 16GB Gold',
                     price_4: 700,
                     price_4p: 850,
                     price_5: 1000,
@@ -13683,7 +13683,7 @@ export const TestData = {
 
             '1556': {
                     prodnom_id: '1556',
-                    name: 'Samsung Galaxy J4 2018 (J400F}, 16GB Silver',
+                    name: 'Samsung Galaxy J4 2018 (J400F), 16GB Silver',
                     price_4: 700,
                     price_4p: 850,
                     price_5: 1000,
@@ -13692,7 +13692,7 @@ export const TestData = {
 
             '1557': {
                     prodnom_id: '1557',
-                    name: 'Samsung Galaxy J3 2017 16GB (J330F}, White',
+                    name: 'Samsung Galaxy J3 2017 16GB (J330F), White',
                     price_4: 550,
                     price_4p: 700,
                     price_5: 800,
@@ -13701,7 +13701,7 @@ export const TestData = {
 
             '1558': {
                     prodnom_id: '1558',
-                    name: 'Samsung Galaxy J3 2017 16GB (J330F}, Black',
+                    name: 'Samsung Galaxy J3 2017 16GB (J330F), Black',
                     price_4: 550,
                     price_4p: 700,
                     price_5: 800,
@@ -13710,7 +13710,7 @@ export const TestData = {
 
             '1559': {
                     prodnom_id: '1559',
-                    name: 'Samsung Galaxy J3 2017 16GB (J330F}, Gold',
+                    name: 'Samsung Galaxy J3 2017 16GB (J330F), Gold',
                     price_4: 550,
                     price_4p: 700,
                     price_5: 800,
@@ -13719,7 +13719,7 @@ export const TestData = {
 
             '1560': {
                     prodnom_id: '1560',
-                    name: 'Samsung Galaxy J3 2017 16GB (J330F}, Blue',
+                    name: 'Samsung Galaxy J3 2017 16GB (J330F), Blue',
                     price_4: 550,
                     price_4p: 700,
                     price_5: 800,
@@ -13728,7 +13728,7 @@ export const TestData = {
 
             '1561': {
                     prodnom_id: '1561',
-                    name: 'Samsung Galaxy J3 2016 (J320H}, 8GB Black',
+                    name: 'Samsung Galaxy J3 2016 (J320H), 8GB Black',
                     price_4: 450,
                     price_4p: 500,
                     price_5: 600,
@@ -13737,7 +13737,7 @@ export const TestData = {
 
             '1562': {
                     prodnom_id: '1562',
-                    name: 'Samsung Galaxy J3 2016 (J320H}, 8GB Gold',
+                    name: 'Samsung Galaxy J3 2016 (J320H), 8GB Gold',
                     price_4: 450,
                     price_4p: 500,
                     price_5: 600,
@@ -13746,7 +13746,7 @@ export const TestData = {
 
             '1563': {
                     prodnom_id: '1563',
-                    name: 'Samsung Galaxy J3 2016 (J320H}, 8GB Silver',
+                    name: 'Samsung Galaxy J3 2016 (J320H), 8GB Silver',
                     price_4: 450,
                     price_4p: 500,
                     price_5: 600,
@@ -13755,7 +13755,7 @@ export const TestData = {
 
             '1564': {
                     prodnom_id: '1564',
-                    name: 'Samsung Galaxy J2 Pro 2018 (J250F}, 16GB Black',
+                    name: 'Samsung Galaxy J2 Pro 2018 (J250F), 16GB Black',
                     price_4: 550,
                     price_4p: 700,
                     price_5: 800,
@@ -13764,7 +13764,7 @@ export const TestData = {
 
             '1565': {
                     prodnom_id: '1565',
-                    name: 'Samsung Galaxy J2 Pro 2018 (J250F}, 16GB Gold',
+                    name: 'Samsung Galaxy J2 Pro 2018 (J250F), 16GB Gold',
                     price_4: 550,
                     price_4p: 700,
                     price_5: 800,
@@ -13773,7 +13773,7 @@ export const TestData = {
 
             '1566': {
                     prodnom_id: '1566',
-                    name: 'Samsung Galaxy J2 Pro 2018 (J250F}, 16GB Silver',
+                    name: 'Samsung Galaxy J2 Pro 2018 (J250F), 16GB Silver',
                     price_4: 550,
                     price_4p: 700,
                     price_5: 800,
@@ -13782,7 +13782,7 @@ export const TestData = {
 
             '1567': {
                     prodnom_id: '1567',
-                    name: 'Samsung Galaxy J2 Prime (G532H}, 8GB Black',
+                    name: 'Samsung Galaxy J2 Prime (G532H), 8GB Black',
                     price_4: 400,
                     price_4p: 450,
                     price_5: 600,
@@ -13791,7 +13791,7 @@ export const TestData = {
 
             '1568': {
                     prodnom_id: '1568',
-                    name: 'Samsung Galaxy J2 Prime (G532H}, 8GB Gold',
+                    name: 'Samsung Galaxy J2 Prime (G532H), 8GB Gold',
                     price_4: 400,
                     price_4p: 450,
                     price_5: 600,
@@ -13800,7 +13800,7 @@ export const TestData = {
 
             '1569': {
                     prodnom_id: '1569',
-                    name: 'Samsung Galaxy J2 Prime (G532H}, 8GB Silver',
+                    name: 'Samsung Galaxy J2 Prime (G532H), 8GB Silver',
                     price_4: 400,
                     price_4p: 450,
                     price_5: 600,
@@ -13809,7 +13809,7 @@ export const TestData = {
 
             '1570': {
                     prodnom_id: '1570',
-                    name: 'Samsung Galaxy J2 (J200H}, 8GB Black',
+                    name: 'Samsung Galaxy J2 (J200H), 8GB Black',
                     price_4: 300,
                     price_4p: 350,
                     price_5: 400,
@@ -13818,7 +13818,7 @@ export const TestData = {
 
             '1571': {
                     prodnom_id: '1571',
-                    name: 'Samsung Galaxy J2 (J200H}, 8GB Gold',
+                    name: 'Samsung Galaxy J2 (J200H), 8GB Gold',
                     price_4: 300,
                     price_4p: 350,
                     price_5: 400,
@@ -13827,7 +13827,7 @@ export const TestData = {
 
             '1572': {
                     prodnom_id: '1572',
-                    name: 'Samsung Galaxy J2 (J200H}, 8GB Silver',
+                    name: 'Samsung Galaxy J2 (J200H), 8GB Silver',
                     price_4: 300,
                     price_4p: 350,
                     price_5: 400,
@@ -13836,7 +13836,7 @@ export const TestData = {
 
             '1573': {
                     prodnom_id: '1573',
-                    name: 'Samsung Galaxy J1 Mini (J105H}, 8GB Black',
+                    name: 'Samsung Galaxy J1 Mini (J105H), 8GB Black',
                     price_4: 200,
                     price_4p: 300,
                     price_5: 350,
@@ -13845,7 +13845,7 @@ export const TestData = {
 
             '1574': {
                     prodnom_id: '1574',
-                    name: 'Samsung Galaxy J1 Mini (J105H}, 8GB Gold',
+                    name: 'Samsung Galaxy J1 Mini (J105H), 8GB Gold',
                     price_4: 200,
                     price_4p: 300,
                     price_5: 350,
@@ -13854,7 +13854,7 @@ export const TestData = {
 
             '1575': {
                     prodnom_id: '1575',
-                    name: 'Samsung Galaxy J1 Mini (J105H}, 8GB Silver',
+                    name: 'Samsung Galaxy J1 Mini (J105H), 8GB Silver',
                     price_4: 200,
                     price_4p: 300,
                     price_5: 350,
@@ -13863,7 +13863,7 @@ export const TestData = {
 
             '1576': {
                     prodnom_id: '1576',
-                    name: 'Samsung Galaxy J1 Ace Duos (J110H}, 4GB Black',
+                    name: 'Samsung Galaxy J1 Ace Duos (J110H), 4GB Black',
                     price_4: 300,
                     price_4p: 350,
                     price_5: 400,
@@ -13872,7 +13872,7 @@ export const TestData = {
 
             '1577': {
                     prodnom_id: '1577',
-                    name: 'Samsung Galaxy J1 Ace Duos (J110H}, 4GB Gold',
+                    name: 'Samsung Galaxy J1 Ace Duos (J110H), 4GB Gold',
                     price_4: 300,
                     price_4p: 350,
                     price_5: 400,
@@ -13881,7 +13881,7 @@ export const TestData = {
 
             '1578': {
                     prodnom_id: '1578',
-                    name: 'Samsung Galaxy J1 Ace Duos (J110H}, 4GB Silver',
+                    name: 'Samsung Galaxy J1 Ace Duos (J110H), 4GB Silver',
                     price_4: 300,
                     price_4p: 350,
                     price_5: 400,
@@ -13890,7 +13890,7 @@ export const TestData = {
 
             '1579': {
                     prodnom_id: '1579',
-                    name: 'Samsung Galaxy J1 2016 (J120H}, 8GB Black',
+                    name: 'Samsung Galaxy J1 2016 (J120H), 8GB Black',
                     price_4: 300,
                     price_4p: 350,
                     price_5: 400,
@@ -13899,7 +13899,7 @@ export const TestData = {
 
             '1580': {
                     prodnom_id: '1580',
-                    name: 'Samsung Galaxy J1 2016 (J120H}, 8GB Gold',
+                    name: 'Samsung Galaxy J1 2016 (J120H), 8GB Gold',
                     price_4: 300,
                     price_4p: 350,
                     price_5: 400,
@@ -13908,7 +13908,7 @@ export const TestData = {
 
             '1581': {
                     prodnom_id: '1581',
-                    name: 'Samsung Galaxy J1 2016 (J120H}, 8GB Silver',
+                    name: 'Samsung Galaxy J1 2016 (J120H), 8GB Silver',
                     price_4: 300,
                     price_4p: 350,
                     price_5: 400,
@@ -13917,7 +13917,7 @@ export const TestData = {
 
             '1582': {
                     prodnom_id: '1582',
-                    name: 'Samsung Galaxy J1 2015 (J100H}, 4GB Black',
+                    name: 'Samsung Galaxy J1 2015 (J100H), 4GB Black',
                     price_4: 200,
                     price_4p: 300,
                     price_5: 350,
@@ -13926,7 +13926,7 @@ export const TestData = {
 
             '1583': {
                     prodnom_id: '1583',
-                    name: 'Samsung Galaxy J1 2015 (J100H}, 4GB Gold',
+                    name: 'Samsung Galaxy J1 2015 (J100H), 4GB Gold',
                     price_4: 200,
                     price_4p: 300,
                     price_5: 350,
@@ -13935,7 +13935,7 @@ export const TestData = {
 
             '1584': {
                     prodnom_id: '1584',
-                    name: 'Samsung Galaxy J1 2015 (J100H}, 4GB Silver',
+                    name: 'Samsung Galaxy J1 2015 (J100H), 4GB Silver',
                     price_4: 200,
                     price_4p: 300,
                     price_5: 350,
@@ -13944,7 +13944,7 @@ export const TestData = {
 
             '1585': {
                     prodnom_id: '1585',
-                    name: 'Samsung Galaxy Grand Prime VE (G531H}, 8GB Black',
+                    name: 'Samsung Galaxy Grand Prime VE (G531H), 8GB Black',
                     price_4: 300,
                     price_4p: 400,
                     price_5: 450,
@@ -13953,7 +13953,7 @@ export const TestData = {
 
             '1586': {
                     prodnom_id: '1586',
-                    name: 'Samsung Galaxy Grand Prime VE (G531H}, 8GB Gold',
+                    name: 'Samsung Galaxy Grand Prime VE (G531H), 8GB Gold',
                     price_4: 300,
                     price_4p: 400,
                     price_5: 450,
@@ -13962,7 +13962,7 @@ export const TestData = {
 
             '1587': {
                     prodnom_id: '1587',
-                    name: 'Samsung Galaxy Grand Prime VE (G531H}, 8GB Silver',
+                    name: 'Samsung Galaxy Grand Prime VE (G531H), 8GB Silver',
                     price_4: 300,
                     price_4p: 400,
                     price_5: 450,
@@ -13971,7 +13971,7 @@ export const TestData = {
 
             '1588': {
                     prodnom_id: '1588',
-                    name: 'Samsung Galaxy Grand Prime (G530H}, 8GB Black',
+                    name: 'Samsung Galaxy Grand Prime (G530H), 8GB Black',
                     price_4: 300,
                     price_4p: 400,
                     price_5: 450,
@@ -13980,7 +13980,7 @@ export const TestData = {
 
             '1589': {
                     prodnom_id: '1589',
-                    name: 'Samsung Galaxy Grand Prime (G530H}, 8GB Gold',
+                    name: 'Samsung Galaxy Grand Prime (G530H), 8GB Gold',
                     price_4: 300,
                     price_4p: 400,
                     price_5: 450,
@@ -13989,7 +13989,7 @@ export const TestData = {
 
             '1590': {
                     prodnom_id: '1590',
-                    name: 'Samsung Galaxy Grand Prime (G530H}, 8GB Silver',
+                    name: 'Samsung Galaxy Grand Prime (G530H), 8GB Silver',
                     price_4: 300,
                     price_4p: 400,
                     price_5: 450,
@@ -13998,7 +13998,7 @@ export const TestData = {
 
             '1591': {
                     prodnom_id: '1591',
-                    name: 'Samsung Galaxy Grand Neo Plus (I9060I}, 8GB Black',
+                    name: 'Samsung Galaxy Grand Neo Plus (I9060I), 8GB Black',
                     price_4: 150,
                     price_4p: 300,
                     price_5: 300,
@@ -14007,7 +14007,7 @@ export const TestData = {
 
             '1592': {
                     prodnom_id: '1592',
-                    name: 'Samsung Galaxy Grand Neo Plus (I9060I}, 8GB Gold',
+                    name: 'Samsung Galaxy Grand Neo Plus (I9060I), 8GB Gold',
                     price_4: 150,
                     price_4p: 300,
                     price_5: 300,
@@ -14016,7 +14016,7 @@ export const TestData = {
 
             '1593': {
                     prodnom_id: '1593',
-                    name: 'Samsung Galaxy Grand Neo Plus (I9060I}, 8GB Silver',
+                    name: 'Samsung Galaxy Grand Neo Plus (I9060I), 8GB Silver',
                     price_4: 150,
                     price_4p: 300,
                     price_5: 300,
@@ -14025,7 +14025,7 @@ export const TestData = {
 
             '1594': {
                     prodnom_id: '1594',
-                    name: 'Samsung Galaxy Grand Neo (I9060}, 8GB Black',
+                    name: 'Samsung Galaxy Grand Neo (I9060), 8GB Black',
                     price_4: 150,
                     price_4p: 300,
                     price_5: 300,
@@ -14034,7 +14034,7 @@ export const TestData = {
 
             '1595': {
                     prodnom_id: '1595',
-                    name: 'Samsung Galaxy Grand Neo (I9060}, 8GB Gold',
+                    name: 'Samsung Galaxy Grand Neo (I9060), 8GB Gold',
                     price_4: 150,
                     price_4p: 300,
                     price_5: 300,
@@ -14043,7 +14043,7 @@ export const TestData = {
 
             '1596': {
                     prodnom_id: '1596',
-                    name: 'Samsung Galaxy Grand Neo (I9060}, 8GB Silver',
+                    name: 'Samsung Galaxy Grand Neo (I9060), 8GB Silver',
                     price_4: 150,
                     price_4p: 300,
                     price_5: 300,
@@ -14052,7 +14052,7 @@ export const TestData = {
 
             '1597': {
                     prodnom_id: '1597',
-                    name: 'Samsung Galaxy Grand 2 (G7102}, 8GB Black',
+                    name: 'Samsung Galaxy Grand 2 (G7102), 8GB Black',
                     price_4: 200,
                     price_4p: 300,
                     price_5: 350,
@@ -14061,7 +14061,7 @@ export const TestData = {
 
             '1598': {
                     prodnom_id: '1598',
-                    name: 'Samsung Galaxy Grand 2 (G7102}, 8GB Gold',
+                    name: 'Samsung Galaxy Grand 2 (G7102), 8GB Gold',
                     price_4: 200,
                     price_4p: 300,
                     price_5: 350,
@@ -14070,7 +14070,7 @@ export const TestData = {
 
             '1599': {
                     prodnom_id: '1599',
-                    name: 'Samsung Galaxy Grand 2 (G7102}, 8GB Silver',
+                    name: 'Samsung Galaxy Grand 2 (G7102), 8GB Silver',
                     price_4: 200,
                     price_4p: 300,
                     price_5: 350,
@@ -14079,7 +14079,7 @@ export const TestData = {
 
             '1600': {
                     prodnom_id: '1600',
-                    name: 'Samsung Galaxy Core Prime VE (G361H}, 8GB Black',
+                    name: 'Samsung Galaxy Core Prime VE (G361H), 8GB Black',
                     price_4: 150,
                     price_4p: 300,
                     price_5: 300,
@@ -14088,7 +14088,7 @@ export const TestData = {
 
             '1601': {
                     prodnom_id: '1601',
-                    name: 'Samsung Galaxy Core Prime VE (G361H}, 8GB Gold',
+                    name: 'Samsung Galaxy Core Prime VE (G361H), 8GB Gold',
                     price_4: 150,
                     price_4p: 300,
                     price_5: 300,
@@ -14097,7 +14097,7 @@ export const TestData = {
 
             '1602': {
                     prodnom_id: '1602',
-                    name: 'Samsung Galaxy Core Prime VE (G361H}, 8GB Silver',
+                    name: 'Samsung Galaxy Core Prime VE (G361H), 8GB Silver',
                     price_4: 150,
                     price_4p: 300,
                     price_5: 300,
@@ -14106,7 +14106,7 @@ export const TestData = {
 
             '1603': {
                     prodnom_id: '1603',
-                    name: 'Samsung Galaxy Core Prime (G360H}, 8GB Black',
+                    name: 'Samsung Galaxy Core Prime (G360H), 8GB Black',
                     price_4: 150,
                     price_4p: 250,
                     price_5: 300,
@@ -14115,7 +14115,7 @@ export const TestData = {
 
             '1604': {
                     prodnom_id: '1604',
-                    name: 'Samsung Galaxy Core Prime (G360H}, 8GB Gold',
+                    name: 'Samsung Galaxy Core Prime (G360H), 8GB Gold',
                     price_4: 150,
                     price_4p: 250,
                     price_5: 300,
@@ -14124,7 +14124,7 @@ export const TestData = {
 
             '1605': {
                     prodnom_id: '1605',
-                    name: 'Samsung Galaxy Core Prime (G360H}, 8GB Silver',
+                    name: 'Samsung Galaxy Core Prime (G360H), 8GB Silver',
                     price_4: 150,
                     price_4p: 250,
                     price_5: 300,
@@ -14133,7 +14133,7 @@ export const TestData = {
 
             '1606': {
                     prodnom_id: '1606',
-                    name: 'Samsung Galaxy Core Duos (I8262}, 8GB Black',
+                    name: 'Samsung Galaxy Core Duos (I8262), 8GB Black',
                     price_4: 100,
                     price_4p: 150,
                     price_5: 250,
@@ -14142,7 +14142,7 @@ export const TestData = {
 
             '1607': {
                     prodnom_id: '1607',
-                    name: 'Samsung Galaxy Core Duos (I8262}, 8GB Gold',
+                    name: 'Samsung Galaxy Core Duos (I8262), 8GB Gold',
                     price_4: 100,
                     price_4p: 150,
                     price_5: 250,
@@ -14151,7 +14151,7 @@ export const TestData = {
 
             '1608': {
                     prodnom_id: '1608',
-                    name: 'Samsung Galaxy Core Duos (I8262}, 8GB Silver',
+                    name: 'Samsung Galaxy Core Duos (I8262), 8GB Silver',
                     price_4: 100,
                     price_4p: 150,
                     price_5: 250,
@@ -14160,7 +14160,7 @@ export const TestData = {
 
             '1609': {
                     prodnom_id: '1609',
-                    name: 'Samsung Galaxy Core 2 (G355H}, 4GB Black',
+                    name: 'Samsung Galaxy Core 2 (G355H), 4GB Black',
                     price_4: 100,
                     price_4p: 150,
                     price_5: 250,
@@ -14169,7 +14169,7 @@ export const TestData = {
 
             '1610': {
                     prodnom_id: '1610',
-                    name: 'Samsung Galaxy Core 2 (G355H}, 4GB Gold',
+                    name: 'Samsung Galaxy Core 2 (G355H), 4GB Gold',
                     price_4: 100,
                     price_4p: 150,
                     price_5: 250,
@@ -14178,7 +14178,7 @@ export const TestData = {
 
             '1611': {
                     prodnom_id: '1611',
-                    name: 'Samsung Galaxy Core 2 (G355H}, 4GB Silver',
+                    name: 'Samsung Galaxy Core 2 (G355H), 4GB Silver',
                     price_4: 100,
                     price_4p: 150,
                     price_5: 250,
@@ -14187,7 +14187,7 @@ export const TestData = {
 
             '1612': {
                     prodnom_id: '1612',
-                    name: 'Samsung Galaxy Alpha (G850F}, 32GB Black',
+                    name: 'Samsung Galaxy Alpha (G850F), 32GB Black',
                     price_4: 350,
                     price_4p: 450,
                     price_5: 500,
@@ -14196,7 +14196,7 @@ export const TestData = {
 
             '1613': {
                     prodnom_id: '1613',
-                    name: 'Samsung Galaxy Alpha (G850F}, 32GB Gold',
+                    name: 'Samsung Galaxy Alpha (G850F), 32GB Gold',
                     price_4: 350,
                     price_4p: 450,
                     price_5: 500,
@@ -14205,7 +14205,7 @@ export const TestData = {
 
             '1614': {
                     prodnom_id: '1614',
-                    name: 'Samsung Galaxy Alpha (G850F}, 32GB Silver',
+                    name: 'Samsung Galaxy Alpha (G850F), 32GB Silver',
                     price_4: 350,
                     price_4p: 450,
                     price_5: 500,
@@ -14214,7 +14214,7 @@ export const TestData = {
 
             '1615': {
                     prodnom_id: '1615',
-                    name: 'Samsung Galaxy Ace 3 (S7272}, 4GB Black',
+                    name: 'Samsung Galaxy Ace 3 (S7272), 4GB Black',
                     price_4: 50,
                     price_4p: 100,
                     price_5: 100,
@@ -14223,7 +14223,7 @@ export const TestData = {
 
             '1616': {
                     prodnom_id: '1616',
-                    name: 'Samsung Galaxy Ace 3 (S7272}, 4GB Gold',
+                    name: 'Samsung Galaxy Ace 3 (S7272), 4GB Gold',
                     price_4: 50,
                     price_4p: 100,
                     price_5: 100,
@@ -14232,7 +14232,7 @@ export const TestData = {
 
             '1617': {
                     prodnom_id: '1617',
-                    name: 'Samsung Galaxy Ace 3 (S7272}, 4GB Silver',
+                    name: 'Samsung Galaxy Ace 3 (S7272), 4GB Silver',
                     price_4: 50,
                     price_4p: 100,
                     price_5: 100,
@@ -14241,7 +14241,7 @@ export const TestData = {
 
             '1618': {
                     prodnom_id: '1618',
-                    name: 'Samsung Galaxy A9 128GB (A920F}, Caviar Black',
+                    name: 'Samsung Galaxy A9 128GB (A920F), Caviar Black',
                     price_4: 1700,
                     price_4p: 2000,
                     price_5: 2300,
@@ -14250,7 +14250,7 @@ export const TestData = {
 
             '1619': {
                     prodnom_id: '1619',
-                    name: 'Samsung Galaxy A9 128GB (A920F}, Lemonade Blue',
+                    name: 'Samsung Galaxy A9 128GB (A920F), Lemonade Blue',
                     price_4: 1700,
                     price_4p: 2000,
                     price_5: 2300,
@@ -14259,7 +14259,7 @@ export const TestData = {
 
             '1620': {
                     prodnom_id: '1620',
-                    name: 'Samsung Galaxy A9 128GB (A920F}, Bubblegum Pink',
+                    name: 'Samsung Galaxy A9 128GB (A920F), Bubblegum Pink',
                     price_4: 1700,
                     price_4p: 2000,
                     price_5: 2300,
@@ -14268,7 +14268,7 @@ export const TestData = {
 
             '1621': {
                     prodnom_id: '1621',
-                    name: 'Samsung Galaxy A8+ 2018 32GB (A730F}, Black',
+                    name: 'Samsung Galaxy A8+ 2018 32GB (A730F), Black',
                     price_4: 1400,
                     price_4p: 1650,
                     price_5: 1850,
@@ -14277,7 +14277,7 @@ export const TestData = {
 
             '1622': {
                     prodnom_id: '1622',
-                    name: 'Samsung Galaxy A8+ 2018 32GB (A730F}, Gold',
+                    name: 'Samsung Galaxy A8+ 2018 32GB (A730F), Gold',
                     price_4: 1400,
                     price_4p: 1650,
                     price_5: 1850,
@@ -14286,7 +14286,7 @@ export const TestData = {
 
             '1623': {
                     prodnom_id: '1623',
-                    name: 'Samsung Galaxy A8+ 2018 32GB (A730F}, Blue',
+                    name: 'Samsung Galaxy A8+ 2018 32GB (A730F), Blue',
                     price_4: 1400,
                     price_4p: 1650,
                     price_5: 1850,
@@ -14295,7 +14295,7 @@ export const TestData = {
 
             '1624': {
                     prodnom_id: '1624',
-                    name: 'Samsung Galaxy A8+ 2018 32GB (A730F}, Orchid Gray',
+                    name: 'Samsung Galaxy A8+ 2018 32GB (A730F), Orchid Gray',
                     price_4: 1400,
                     price_4p: 1650,
                     price_5: 1850,
@@ -14304,7 +14304,7 @@ export const TestData = {
 
             '1625': {
                     prodnom_id: '1625',
-                    name: 'Samsung Galaxy A8 2018 32GB (A530F}, Black',
+                    name: 'Samsung Galaxy A8 2018 32GB (A530F), Black',
                     price_4: 1150,
                     price_4p: 1450,
                     price_5: 1600,
@@ -14313,7 +14313,7 @@ export const TestData = {
 
             '1626': {
                     prodnom_id: '1626',
-                    name: 'Samsung Galaxy A8 2018 32GB (A530F}, Gold',
+                    name: 'Samsung Galaxy A8 2018 32GB (A530F), Gold',
                     price_4: 1150,
                     price_4p: 1450,
                     price_5: 1600,
@@ -14322,7 +14322,7 @@ export const TestData = {
 
             '1627': {
                     prodnom_id: '1627',
-                    name: 'Samsung Galaxy A8 2018 32GB (A530F}, Blue',
+                    name: 'Samsung Galaxy A8 2018 32GB (A530F), Blue',
                     price_4: 1150,
                     price_4p: 1450,
                     price_5: 1600,
@@ -14331,7 +14331,7 @@ export const TestData = {
 
             '1628': {
                     prodnom_id: '1628',
-                    name: 'Samsung Galaxy A8 2018 32GB (A530F}, Orchid Gray',
+                    name: 'Samsung Galaxy A8 2018 32GB (A530F), Orchid Gray',
                     price_4: 1150,
                     price_4p: 1450,
                     price_5: 1600,
@@ -14340,7 +14340,7 @@ export const TestData = {
 
             '1629': {
                     prodnom_id: '1629',
-                    name: 'Samsung Galaxy A70 2019 (A705F}, 6/128GB Black',
+                    name: 'Samsung Galaxy A70 2019 (A705F), 6/128GB Black',
                     price_4: 1700,
                     price_4p: 2050,
                     price_5: 2350,
@@ -14349,7 +14349,7 @@ export const TestData = {
 
             '1630': {
                     prodnom_id: '1630',
-                    name: 'Samsung Galaxy A70 2019 (A705F}, 6/128GB Gold',
+                    name: 'Samsung Galaxy A70 2019 (A705F), 6/128GB Gold',
                     price_4: 1700,
                     price_4p: 2050,
                     price_5: 2350,
@@ -14358,7 +14358,7 @@ export const TestData = {
 
             '1631': {
                     prodnom_id: '1631',
-                    name: 'Samsung Galaxy A70 2019 (A705F}, 6/128GB White',
+                    name: 'Samsung Galaxy A70 2019 (A705F), 6/128GB White',
                     price_4: 1700,
                     price_4p: 2050,
                     price_5: 2350,
@@ -14403,7 +14403,7 @@ export const TestData = {
 
             '1636': {
                     prodnom_id: '1636',
-                    name: 'Samsung Galaxy A7 2017 32GB (A720F}, Black Sky',
+                    name: 'Samsung Galaxy A7 2017 32GB (A720F), Black Sky',
                     price_4: 900,
                     price_4p: 1050,
                     price_5: 1150,
@@ -14412,7 +14412,7 @@ export const TestData = {
 
             '1637': {
                     prodnom_id: '1637',
-                    name: 'Samsung Galaxy A7 2017 32GB (A720F}, Gold Sand',
+                    name: 'Samsung Galaxy A7 2017 32GB (A720F), Gold Sand',
                     price_4: 900,
                     price_4p: 1050,
                     price_5: 1150,
@@ -14421,7 +14421,7 @@ export const TestData = {
 
             '1638': {
                     prodnom_id: '1638',
-                    name: 'Samsung Galaxy A7 2017 32GB (A720F}, Blue Mist',
+                    name: 'Samsung Galaxy A7 2017 32GB (A720F), Blue Mist',
                     price_4: 900,
                     price_4p: 1050,
                     price_5: 1150,
@@ -14430,7 +14430,7 @@ export const TestData = {
 
             '1639': {
                     prodnom_id: '1639',
-                    name: 'Samsung Galaxy A7 2017 32GB (A720F}, Peach Cloud',
+                    name: 'Samsung Galaxy A7 2017 32GB (A720F), Peach Cloud',
                     price_4: 900,
                     price_4p: 1050,
                     price_5: 1150,
@@ -14439,7 +14439,7 @@ export const TestData = {
 
             '1640': {
                     prodnom_id: '1640',
-                    name: 'Samsung Galaxy A7 2016 16GB (A710F}, Black',
+                    name: 'Samsung Galaxy A7 2016 16GB (A710F), Black',
                     price_4: 650,
                     price_4p: 800,
                     price_5: 900,
@@ -14448,7 +14448,7 @@ export const TestData = {
 
             '1641': {
                     prodnom_id: '1641',
-                    name: 'Samsung Galaxy A7 2016 16GB (A710F}, Gold',
+                    name: 'Samsung Galaxy A7 2016 16GB (A710F), Gold',
                     price_4: 650,
                     price_4p: 800,
                     price_5: 900,
@@ -14457,7 +14457,7 @@ export const TestData = {
 
             '1642': {
                     prodnom_id: '1642',
-                    name: 'Samsung Galaxy A7 2016 16GB (A710F}, White',
+                    name: 'Samsung Galaxy A7 2016 16GB (A710F), White',
                     price_4: 650,
                     price_4p: 800,
                     price_5: 900,
@@ -14466,7 +14466,7 @@ export const TestData = {
 
             '1643': {
                     prodnom_id: '1643',
-                    name: 'Samsung Galaxy A7 2016 16GB (A710F}, Silver',
+                    name: 'Samsung Galaxy A7 2016 16GB (A710F), Silver',
                     price_4: 650,
                     price_4p: 800,
                     price_5: 900,
@@ -14475,7 +14475,7 @@ export const TestData = {
 
             '1644': {
                     prodnom_id: '1644',
-                    name: 'Samsung Galaxy A7 2016 16GB (A710F}, Pink',
+                    name: 'Samsung Galaxy A7 2016 16GB (A710F), Pink',
                     price_4: 650,
                     price_4p: 800,
                     price_5: 900,
@@ -14484,7 +14484,7 @@ export const TestData = {
 
             '1645': {
                     prodnom_id: '1645',
-                    name: 'Samsung Galaxy A7 2015 16GB (A700H}, Black',
+                    name: 'Samsung Galaxy A7 2015 16GB (A700H), Black',
                     price_4: 400,
                     price_4p: 600,
                     price_5: 650,
@@ -14493,7 +14493,7 @@ export const TestData = {
 
             '1646': {
                     prodnom_id: '1646',
-                    name: 'Samsung Galaxy A7 2015 16GB (A700H}, Gold',
+                    name: 'Samsung Galaxy A7 2015 16GB (A700H), Gold',
                     price_4: 400,
                     price_4p: 600,
                     price_5: 650,
@@ -14502,7 +14502,7 @@ export const TestData = {
 
             '1647': {
                     prodnom_id: '1647',
-                    name: 'Samsung Galaxy A7 2015 16GB (A700H}, White',
+                    name: 'Samsung Galaxy A7 2015 16GB (A700H), White',
                     price_4: 400,
                     price_4p: 600,
                     price_5: 650,
@@ -14511,7 +14511,7 @@ export const TestData = {
 
             '1648': {
                     prodnom_id: '1648',
-                    name: 'Samsung Galaxy A6+ 2018 32GB (A605F}, Black',
+                    name: 'Samsung Galaxy A6+ 2018 32GB (A605F), Black',
                     price_4: 1100,
                     price_4p: 1300,
                     price_5: 1500,
@@ -14520,7 +14520,7 @@ export const TestData = {
 
             '1649': {
                     prodnom_id: '1649',
-                    name: 'Samsung Galaxy A6+ 2018 32GB (A605F}, Gold',
+                    name: 'Samsung Galaxy A6+ 2018 32GB (A605F), Gold',
                     price_4: 1100,
                     price_4p: 1300,
                     price_5: 1500,
@@ -14529,7 +14529,7 @@ export const TestData = {
 
             '1650': {
                     prodnom_id: '1650',
-                    name: 'Samsung Galaxy A6+ 2018 32GB (A605F}, Blue',
+                    name: 'Samsung Galaxy A6+ 2018 32GB (A605F), Blue',
                     price_4: 1100,
                     price_4p: 1300,
                     price_5: 1500,
@@ -14538,7 +14538,7 @@ export const TestData = {
 
             '1651': {
                     prodnom_id: '1651',
-                    name: 'Samsung Galaxy A6+ 2018 32GB (A605F}, Lavender',
+                    name: 'Samsung Galaxy A6+ 2018 32GB (A605F), Lavender',
                     price_4: 1100,
                     price_4p: 1300,
                     price_5: 1500,
@@ -14547,7 +14547,7 @@ export const TestData = {
 
             '1652': {
                     prodnom_id: '1652',
-                    name: 'Samsung Galaxy A6 2018 32GB (A600F}, Black',
+                    name: 'Samsung Galaxy A6 2018 32GB (A600F), Black',
                     price_4: 1050,
                     price_4p: 1250,
                     price_5: 1400,
@@ -14556,7 +14556,7 @@ export const TestData = {
 
             '1653': {
                     prodnom_id: '1653',
-                    name: 'Samsung Galaxy A6 2018 32GB (A600F}, Gold',
+                    name: 'Samsung Galaxy A6 2018 32GB (A600F), Gold',
                     price_4: 1050,
                     price_4p: 1250,
                     price_5: 1400,
@@ -14565,7 +14565,7 @@ export const TestData = {
 
             '1654': {
                     prodnom_id: '1654',
-                    name: 'Samsung Galaxy A6 2018 32GB (A600F}, Blue',
+                    name: 'Samsung Galaxy A6 2018 32GB (A600F), Blue',
                     price_4: 1050,
                     price_4p: 1250,
                     price_5: 1400,
@@ -14574,7 +14574,7 @@ export const TestData = {
 
             '1655': {
                     prodnom_id: '1655',
-                    name: 'Samsung Galaxy A6 2018 32GB (A600F}, Lavender',
+                    name: 'Samsung Galaxy A6 2018 32GB (A600F), Lavender',
                     price_4: 1050,
                     price_4p: 1250,
                     price_5: 1400,
@@ -14583,7 +14583,7 @@ export const TestData = {
 
             '1656': {
                     prodnom_id: '1656',
-                    name: 'Samsung Galaxy A50 2019 (A505F}, 4/64GB Black',
+                    name: 'Samsung Galaxy A50 2019 (A505F), 4/64GB Black',
                     price_4: 1550,
                     price_4p: 1850,
                     price_5: 2200,
@@ -14592,7 +14592,7 @@ export const TestData = {
 
             '1657': {
                     prodnom_id: '1657',
-                    name: 'Samsung Galaxy A50 2019 (A505F}, 4/64GB White',
+                    name: 'Samsung Galaxy A50 2019 (A505F), 4/64GB White',
                     price_4: 1550,
                     price_4p: 1850,
                     price_5: 2200,
@@ -14601,7 +14601,7 @@ export const TestData = {
 
             '1658': {
                     prodnom_id: '1658',
-                    name: 'Samsung Galaxy A5 2017 (A520F}, 32GB Black',
+                    name: 'Samsung Galaxy A5 2017 (A520F), 32GB Black',
                     price_4: 700,
                     price_4p: 900,
                     price_5: 1100,
@@ -14610,7 +14610,7 @@ export const TestData = {
 
             '1659': {
                     prodnom_id: '1659',
-                    name: 'Samsung Galaxy A5 2017 (A520F}, 32GB Gold',
+                    name: 'Samsung Galaxy A5 2017 (A520F), 32GB Gold',
                     price_4: 700,
                     price_4p: 900,
                     price_5: 1100,
@@ -14619,7 +14619,7 @@ export const TestData = {
 
             '1660': {
                     prodnom_id: '1660',
-                    name: 'Samsung Galaxy A5 2016 32GB (A510F}, Black',
+                    name: 'Samsung Galaxy A5 2016 32GB (A510F), Black',
                     price_4: 500,
                     price_4p: 600,
                     price_5: 700,
@@ -14628,7 +14628,7 @@ export const TestData = {
 
             '1661': {
                     prodnom_id: '1661',
-                    name: 'Samsung Galaxy A5 2016 32GB (A510F}, Gold',
+                    name: 'Samsung Galaxy A5 2016 32GB (A510F), Gold',
                     price_4: 500,
                     price_4p: 600,
                     price_5: 700,
@@ -14637,7 +14637,7 @@ export const TestData = {
 
             '1662': {
                     prodnom_id: '1662',
-                    name: 'Samsung Galaxy A5 2016 32GB (A510F}, White',
+                    name: 'Samsung Galaxy A5 2016 32GB (A510F), White',
                     price_4: 500,
                     price_4p: 600,
                     price_5: 700,
@@ -14646,7 +14646,7 @@ export const TestData = {
 
             '1663': {
                     prodnom_id: '1663',
-                    name: 'Samsung Galaxy A5 2016 32GB (A510F}, Pink Gold',
+                    name: 'Samsung Galaxy A5 2016 32GB (A510F), Pink Gold',
                     price_4: 500,
                     price_4p: 600,
                     price_5: 700,
@@ -14655,7 +14655,7 @@ export const TestData = {
 
             '1664': {
                     prodnom_id: '1664',
-                    name: 'Samsung Galaxy A5 2015 16GB (A500H}, Black',
+                    name: 'Samsung Galaxy A5 2015 16GB (A500H), Black',
                     price_4: 350,
                     price_4p: 450,
                     price_5: 500,
@@ -14664,7 +14664,7 @@ export const TestData = {
 
             '1665': {
                     prodnom_id: '1665',
-                    name: 'Samsung Galaxy A5 2015 16GB (A500H}, White',
+                    name: 'Samsung Galaxy A5 2015 16GB (A500H), White',
                     price_4: 350,
                     price_4p: 450,
                     price_5: 500,
@@ -14673,7 +14673,7 @@ export const TestData = {
 
             '1666': {
                     prodnom_id: '1666',
-                    name: 'Samsung Galaxy A5 2015 16GB (A500H}, Silver',
+                    name: 'Samsung Galaxy A5 2015 16GB (A500H), Silver',
                     price_4: 350,
                     price_4p: 450,
                     price_5: 500,
@@ -14682,7 +14682,7 @@ export const TestData = {
 
             '1667': {
                     prodnom_id: '1667',
-                    name: 'Samsung Galaxy A5 2015 16GB (A500H}, Pink',
+                    name: 'Samsung Galaxy A5 2015 16GB (A500H), Pink',
                     price_4: 350,
                     price_4p: 450,
                     price_5: 500,
@@ -14691,7 +14691,7 @@ export const TestData = {
 
             '1668': {
                     prodnom_id: '1668',
-                    name: 'Samsung Galaxy A5 2015 16GB (A500H}, Blue',
+                    name: 'Samsung Galaxy A5 2015 16GB (A500H), Blue',
                     price_4: 350,
                     price_4p: 450,
                     price_5: 500,
@@ -14700,7 +14700,7 @@ export const TestData = {
 
             '1669': {
                     prodnom_id: '1669',
-                    name: 'Samsung Galaxy A5 2015 16GB (A500H}, Gold',
+                    name: 'Samsung Galaxy A5 2015 16GB (A500H), Gold',
                     price_4: 350,
                     price_4p: 450,
                     price_5: 500,
@@ -14709,7 +14709,7 @@ export const TestData = {
 
             '1670': {
                     prodnom_id: '1670',
-                    name: 'Samsung Galaxy A30 2019 (A305F}, 4/64GB White',
+                    name: 'Samsung Galaxy A30 2019 (A305F), 4/64GB White',
                     price_4: 1200,
                     price_4p: 1450,
                     price_5: 1500,
@@ -14718,7 +14718,7 @@ export const TestData = {
 
             '1671': {
                     prodnom_id: '1671',
-                    name: 'Samsung Galaxy A30 2019 (A305F}, 4/64GB Black',
+                    name: 'Samsung Galaxy A30 2019 (A305F), 4/64GB Black',
                     price_4: 1200,
                     price_4p: 1450,
                     price_5: 1500,
@@ -14727,7 +14727,7 @@ export const TestData = {
 
             '1672': {
                     prodnom_id: '1672',
-                    name: 'Samsung Galaxy A30 2019 (A305F}, 3/32GB White',
+                    name: 'Samsung Galaxy A30 2019 (A305F), 3/32GB White',
                     price_4: 1150,
                     price_4p: 1400,
                     price_5: 1450,
@@ -14736,7 +14736,7 @@ export const TestData = {
 
             '1673': {
                     prodnom_id: '1673',
-                    name: 'Samsung Galaxy A30 2019 (A305F}, 3/32GB Black',
+                    name: 'Samsung Galaxy A30 2019 (A305F), 3/32GB Black',
                     price_4: 1150,
                     price_4p: 1400,
                     price_5: 1450,
@@ -14745,7 +14745,7 @@ export const TestData = {
 
             '1674': {
                     prodnom_id: '1674',
-                    name: 'Samsung Galaxy A3 2017 16GB (A320F}, Black Sky',
+                    name: 'Samsung Galaxy A3 2017 16GB (A320F), Black Sky',
                     price_4: 600,
                     price_4p: 750,
                     price_5: 900,
@@ -14754,7 +14754,7 @@ export const TestData = {
 
             '1675': {
                     prodnom_id: '1675',
-                    name: 'Samsung Galaxy A3 2017 16GB (A320F}, Gold Sand',
+                    name: 'Samsung Galaxy A3 2017 16GB (A320F), Gold Sand',
                     price_4: 600,
                     price_4p: 750,
                     price_5: 900,
@@ -14763,7 +14763,7 @@ export const TestData = {
 
             '1676': {
                     prodnom_id: '1676',
-                    name: 'Samsung Galaxy A3 2017 16GB (A320F}, Blue Mist',
+                    name: 'Samsung Galaxy A3 2017 16GB (A320F), Blue Mist',
                     price_4: 600,
                     price_4p: 750,
                     price_5: 900,
@@ -14772,7 +14772,7 @@ export const TestData = {
 
             '1677': {
                     prodnom_id: '1677',
-                    name: 'Samsung Galaxy A3 2017 16GB (A320F}, Peach Cloud',
+                    name: 'Samsung Galaxy A3 2017 16GB (A320F), Peach Cloud',
                     price_4: 600,
                     price_4p: 750,
                     price_5: 900,
@@ -14781,7 +14781,7 @@ export const TestData = {
 
             '1678': {
                     prodnom_id: '1678',
-                    name: 'Samsung Galaxy A3 2016 16GB (A310F}, Black',
+                    name: 'Samsung Galaxy A3 2016 16GB (A310F), Black',
                     price_4: 450,
                     price_4p: 600,
                     price_5: 650,
@@ -14790,7 +14790,7 @@ export const TestData = {
 
             '1679': {
                     prodnom_id: '1679',
-                    name: 'Samsung Galaxy A3 2016 16GB (A310F}, White',
+                    name: 'Samsung Galaxy A3 2016 16GB (A310F), White',
                     price_4: 450,
                     price_4p: 600,
                     price_5: 650,
@@ -14799,7 +14799,7 @@ export const TestData = {
 
             '1680': {
                     prodnom_id: '1680',
-                    name: 'Samsung Galaxy A3 2016 16GB (A310F}, Gold',
+                    name: 'Samsung Galaxy A3 2016 16GB (A310F), Gold',
                     price_4: 450,
                     price_4p: 600,
                     price_5: 650,
@@ -14808,7 +14808,7 @@ export const TestData = {
 
             '1681': {
                     prodnom_id: '1681',
-                    name: 'Samsung Galaxy A3 2016 16GB (A310F}, Pink Gold',
+                    name: 'Samsung Galaxy A3 2016 16GB (A310F), Pink Gold',
                     price_4: 450,
                     price_4p: 600,
                     price_5: 650,
@@ -14817,7 +14817,7 @@ export const TestData = {
 
             '1682': {
                     prodnom_id: '1682',
-                    name: 'Samsung Galaxy A3 2015 16GB (A300H}, Black',
+                    name: 'Samsung Galaxy A3 2015 16GB (A300H), Black',
                     price_4: 300,
                     price_4p: 350,
                     price_5: 400,
@@ -14826,7 +14826,7 @@ export const TestData = {
 
             '1683': {
                     prodnom_id: '1683',
-                    name: 'Samsung Galaxy A3 2015 16GB (A300H}, White',
+                    name: 'Samsung Galaxy A3 2015 16GB (A300H), White',
                     price_4: 300,
                     price_4p: 350,
                     price_5: 400,
@@ -14835,7 +14835,7 @@ export const TestData = {
 
             '1684': {
                     prodnom_id: '1684',
-                    name: 'Samsung Galaxy A3 2015 16GB (A300H}, Gold',
+                    name: 'Samsung Galaxy A3 2015 16GB (A300H), Gold',
                     price_4: 300,
                     price_4p: 350,
                     price_5: 400,
@@ -14844,7 +14844,7 @@ export const TestData = {
 
             '1685': {
                     prodnom_id: '1685',
-                    name: 'Samsung Galaxy A3 2015 16GB (A300H}, Silver',
+                    name: 'Samsung Galaxy A3 2015 16GB (A300H), Silver',
                     price_4: 300,
                     price_4p: 350,
                     price_5: 400,
@@ -14853,7 +14853,7 @@ export const TestData = {
 
             '1686': {
                     prodnom_id: '1686',
-                    name: 'Samsung Galaxy A3 2015 16GB (A300H}, Pink',
+                    name: 'Samsung Galaxy A3 2015 16GB (A300H), Pink',
                     price_4: 300,
                     price_4p: 350,
                     price_5: 400,
@@ -14862,7 +14862,7 @@ export const TestData = {
 
             '1687': {
                     prodnom_id: '1687',
-                    name: 'Samsung Galaxy A3 2015 16GB (A300H}, Blue',
+                    name: 'Samsung Galaxy A3 2015 16GB (A300H), Blue',
                     price_4: 300,
                     price_4p: 350,
                     price_5: 400,
@@ -15357,7 +15357,7 @@ export const TestData = {
 
             '1742': {
                     prodnom_id: '1742',
-                    name: 'Sony Xperia XA1 Dual (G3112}, 16GB Black',
+                    name: 'Sony Xperia XA1 Dual (G3112), 16GB Black',
                     price_4: 300,
                     price_4p: 350,
                     price_5: 400,
@@ -15366,7 +15366,7 @@ export const TestData = {
 
             '1743': {
                     prodnom_id: '1743',
-                    name: 'Sony Xperia XA1 Dual (G3112}, 16GB White',
+                    name: 'Sony Xperia XA1 Dual (G3112), 16GB White',
                     price_4: 300,
                     price_4p: 350,
                     price_5: 400,
@@ -15375,7 +15375,7 @@ export const TestData = {
 
             '1744': {
                     prodnom_id: '1744',
-                    name: 'Sony Xperia XA1 Dual (G3112}, 16GB Green',
+                    name: 'Sony Xperia XA1 Dual (G3112), 16GB Green',
                     price_4: 300,
                     price_4p: 350,
                     price_5: 400,
@@ -20370,7 +20370,7 @@ export const TestData = {
 
             '3352': {
                     prodnom_id: '3352',
-                    name: 'Samsung Galaxy J2 Core 2018 (J260F}, 16GB Black',
+                    name: 'Samsung Galaxy J2 Core 2018 (J260F), 16GB Black',
                     price_4: 500,
                     price_4p: 650,
                     price_5: 700,
@@ -20379,7 +20379,7 @@ export const TestData = {
 
             '3353': {
                     prodnom_id: '3353',
-                    name: 'Samsung Galaxy J2 Core 2018 (J260F}, 16GB Gold',
+                    name: 'Samsung Galaxy J2 Core 2018 (J260F), 16GB Gold',
                     price_4: 500,
                     price_4p: 650,
                     price_5: 700,
@@ -20388,7 +20388,7 @@ export const TestData = {
 
             '3354': {
                     prodnom_id: '3354',
-                    name: 'Samsung Galaxy J2 Core 2018 (J260F}, 16GB Blue',
+                    name: 'Samsung Galaxy J2 Core 2018 (J260F), 16GB Blue',
                     price_4: 500,
                     price_4p: 650,
                     price_5: 700,
@@ -20397,7 +20397,7 @@ export const TestData = {
 
             '3355': {
                     prodnom_id: '3355',
-                    name: 'Samsung Galaxy A10s (A107F}, 2/32GB Black',
+                    name: 'Samsung Galaxy A10s (A107F), 2/32GB Black',
                     price_4: 850,
                     price_4p: 1050,
                     price_5: 1150,
@@ -20406,7 +20406,7 @@ export const TestData = {
 
             '3356': {
                     prodnom_id: '3356',
-                    name: 'Samsung Galaxy A10s (A107F}, 2/32GB Blue',
+                    name: 'Samsung Galaxy A10s (A107F), 2/32GB Blue',
                     price_4: 850,
                     price_4p: 1050,
                     price_5: 1150,
@@ -20415,7 +20415,7 @@ export const TestData = {
 
             '3357': {
                     prodnom_id: '3357',
-                    name: 'Samsung Galaxy A10s (A107F}, 2/32GB Red',
+                    name: 'Samsung Galaxy A10s (A107F), 2/32GB Red',
                     price_4: 850,
                     price_4p: 1050,
                     price_5: 1150,
@@ -20424,7 +20424,7 @@ export const TestData = {
 
             '3358': {
                     prodnom_id: '3358',
-                    name: 'Samsung Galaxy A10 (A105F}, 2/32GB Black',
+                    name: 'Samsung Galaxy A10 (A105F), 2/32GB Black',
                     price_4: 750,
                     price_4p: 900,
                     price_5: 1050,
@@ -20433,7 +20433,7 @@ export const TestData = {
 
             '3359': {
                     prodnom_id: '3359',
-                    name: 'Samsung Galaxy A10 (A105F}, 2/32GB Blue',
+                    name: 'Samsung Galaxy A10 (A105F), 2/32GB Blue',
                     price_4: 750,
                     price_4p: 900,
                     price_5: 1050,
@@ -20442,7 +20442,7 @@ export const TestData = {
 
             '3360': {
                     prodnom_id: '3360',
-                    name: 'Samsung Galaxy A10 (A105F}, 2/32GB Red',
+                    name: 'Samsung Galaxy A10 (A105F), 2/32GB Red',
                     price_4: 750,
                     price_4p: 900,
                     price_5: 1050,
@@ -20451,7 +20451,7 @@ export const TestData = {
 
             '3361': {
                     prodnom_id: '3361',
-                    name: 'Samsung Galaxy M20 2019 (M205F}, 4/64GB Black',
+                    name: 'Samsung Galaxy M20 2019 (M205F), 4/64GB Black',
                     price_4: 1050,
                     price_4p: 1450,
                     price_5: 1650,
@@ -20460,7 +20460,7 @@ export const TestData = {
 
             '3362': {
                     prodnom_id: '3362',
-                    name: 'Samsung Galaxy M20 2019 (M205F}, 4/64GB Blue',
+                    name: 'Samsung Galaxy M20 2019 (M205F), 4/64GB Blue',
                     price_4: 1050,
                     price_4p: 1450,
                     price_5: 1650,
@@ -20982,7 +20982,7 @@ export const TestData = {
 
             '3423': {
                     prodnom_id: '3423',
-                    name: 'Samsung Galaxy A5 2017 (A520F}, 32GB Pink',
+                    name: 'Samsung Galaxy A5 2017 (A520F), 32GB Pink',
                     price_4: 700,
                     price_4p: 900,
                     price_5: 1100,
@@ -20991,7 +20991,7 @@ export const TestData = {
 
             '3424': {
                     prodnom_id: '3424',
-                    name: 'Samsung Galaxy A5 2017 (A520F}, 32GB Blue',
+                    name: 'Samsung Galaxy A5 2017 (A520F), 32GB Blue',
                     price_4: 700,
                     price_4p: 900,
                     price_5: 1100,
@@ -21000,7 +21000,7 @@ export const TestData = {
 
             '3425': {
                     prodnom_id: '3425',
-                    name: 'Samsung Galaxy A50 2019 (A505F}, 4/64GB Blue',
+                    name: 'Samsung Galaxy A50 2019 (A505F), 4/64GB Blue',
                     price_4: 1550,
                     price_4p: 1850,
                     price_5: 2200,
@@ -21090,7 +21090,7 @@ export const TestData = {
 
             '3436': {
                     prodnom_id: '3436',
-                    name: 'Samsung Galaxy S10 (G973F}, 128GB Black',
+                    name: 'Samsung Galaxy S10 (G973F), 128GB Black',
                     price_4: 4150,
                     price_4p: 4850,
                     price_5: 5700,
@@ -21099,7 +21099,7 @@ export const TestData = {
 
             '3437': {
                     prodnom_id: '3437',
-                    name: 'Samsung Galaxy S10 (G973F}, 128GB Green',
+                    name: 'Samsung Galaxy S10 (G973F), 128GB Green',
                     price_4: 4150,
                     price_4p: 4850,
                     price_5: 5700,
@@ -21108,7 +21108,7 @@ export const TestData = {
 
             '3438': {
                     prodnom_id: '3438',
-                    name: 'Samsung Galaxy S10 (G973F}, 128GB Red',
+                    name: 'Samsung Galaxy S10 (G973F), 128GB Red',
                     price_4: 4150,
                     price_4p: 4850,
                     price_5: 5700,
@@ -21117,7 +21117,7 @@ export const TestData = {
 
             '3439': {
                     prodnom_id: '3439',
-                    name: 'Samsung Galaxy S10 (G973F}, 128GB White',
+                    name: 'Samsung Galaxy S10 (G973F), 128GB White',
                     price_4: 4150,
                     price_4p: 4850,
                     price_5: 5700,
@@ -21126,7 +21126,7 @@ export const TestData = {
 
             '3440': {
                     prodnom_id: '3440',
-                    name: 'Samsung Galaxy S10+ 512GB (G975F}, Black',
+                    name: 'Samsung Galaxy S10+ 512GB (G975F), Black',
                     price_4: 4500,
                     price_4p: 5300,
                     price_5: 6200,
@@ -21135,7 +21135,7 @@ export const TestData = {
 
             '3441': {
                     prodnom_id: '3441',
-                    name: 'Samsung Galaxy S10+ 512GB (G975F}, Green',
+                    name: 'Samsung Galaxy S10+ 512GB (G975F), Green',
                     price_4: 4500,
                     price_4p: 5300,
                     price_5: 6200,
@@ -21144,7 +21144,7 @@ export const TestData = {
 
             '3442': {
                     prodnom_id: '3442',
-                    name: 'Samsung Galaxy S10+ 512GB (G975F}, Red',
+                    name: 'Samsung Galaxy S10+ 512GB (G975F), Red',
                     price_4: 4500,
                     price_4p: 5300,
                     price_5: 6200,
@@ -21153,7 +21153,7 @@ export const TestData = {
 
             '3443': {
                     prodnom_id: '3443',
-                    name: 'Samsung Galaxy S10+ 512GB (G975F}, White',
+                    name: 'Samsung Galaxy S10+ 512GB (G975F), White',
                     price_4: 4500,
                     price_4p: 5300,
                     price_5: 6200,
@@ -21162,7 +21162,7 @@ export const TestData = {
 
             '3444': {
                     prodnom_id: '3444',
-                    name: 'Samsung Galaxy S10е (G970F}, 6/128GB Black',
+                    name: 'Samsung Galaxy S10е (G970F), 6/128GB Black',
                     price_4: 3250,
                     price_4p: 3800,
                     price_5: 4450,
@@ -21171,7 +21171,7 @@ export const TestData = {
 
             '3445': {
                     prodnom_id: '3445',
-                    name: 'Samsung Galaxy S10е (G970F}, 6/128GB Green',
+                    name: 'Samsung Galaxy S10е (G970F), 6/128GB Green',
                     price_4: 3250,
                     price_4p: 3800,
                     price_5: 4450,
@@ -21180,7 +21180,7 @@ export const TestData = {
 
             '3446': {
                     prodnom_id: '3446',
-                    name: 'Samsung Galaxy S10е (G970F}, 6/128GB White',
+                    name: 'Samsung Galaxy S10е (G970F), 6/128GB White',
                     price_4: 3250,
                     price_4p: 3800,
                     price_5: 4450,
@@ -21189,7 +21189,7 @@ export const TestData = {
 
             '3447': {
                     prodnom_id: '3447',
-                    name: 'Samsung Galaxy S10е (G970F}, 6/128GB Yellow',
+                    name: 'Samsung Galaxy S10е (G970F), 6/128GB Yellow',
                     price_4: 3250,
                     price_4p: 3800,
                     price_5: 4450,
@@ -21369,7 +21369,7 @@ export const TestData = {
 
             '3467': {
                     prodnom_id: '3467',
-                    name: 'TP-Link Neffos X20 2/32GB (TP7071A}, Dual Sim Black',
+                    name: 'TP-Link Neffos X20 2/32GB (TP7071A), Dual Sim Black',
                     price_4: 300,
                     price_4p: 350,
                     price_5: 400,
@@ -21378,7 +21378,7 @@ export const TestData = {
 
             '3468': {
                     prodnom_id: '3468',
-                    name: 'TP-Link Neffos X20 2/32GB (TP7071A85}, Dual Sim Red',
+                    name: 'TP-Link Neffos X20 2/32GB (TP7071A85), Dual Sim Red',
                     price_4: 300,
                     price_4p: 350,
                     price_5: 400,
@@ -21387,7 +21387,7 @@ export const TestData = {
 
             '3469': {
                     prodnom_id: '3469',
-                    name: 'TP-Link Neffos X20 2/32GB (TP7071A}, Aurora Purple',
+                    name: 'TP-Link Neffos X20 2/32GB (TP7071A), Aurora Purple',
                     price_4: 300,
                     price_4p: 350,
                     price_5: 400,
@@ -21864,7 +21864,7 @@ export const TestData = {
 
             '3541': {
                     prodnom_id: '3541',
-                    name: 'TP-Link Neffos X9 3/32GB (TP913A}, Black',
+                    name: 'TP-Link Neffos X9 3/32GB (TP913A), Black',
                     price_4: 300,
                     price_4p: 350,
                     price_5: 400,
@@ -22197,7 +22197,7 @@ export const TestData = {
 
             '3578': {
                     prodnom_id: '3578',
-                    name: 'Asus Zenfone 2 Laser ZE550KL (Z00ED}, 2/8GB Black',
+                    name: 'Asus Zenfone 2 Laser ZE550KL (Z00ED), 2/8GB Black',
                     price_4: 300,
                     price_4p: 350,
                     price_5: 400,
@@ -22206,7 +22206,7 @@ export const TestData = {
 
             '3579': {
                     prodnom_id: '3579',
-                    name: 'Asus Zenfone 2 Laser ZE550KL (Z00ED}, 2/8GB White',
+                    name: 'Asus Zenfone 2 Laser ZE550KL (Z00ED), 2/8GB White',
                     price_4: 300,
                     price_4p: 350,
                     price_5: 400,
@@ -22215,7 +22215,7 @@ export const TestData = {
 
             '3580': {
                     prodnom_id: '3580',
-                    name: 'Asus Zenfone 2 Laser ZE550KL (Z00ED}, 2/8GB Blue',
+                    name: 'Asus Zenfone 2 Laser ZE550KL (Z00ED), 2/8GB Blue',
                     price_4: 300,
                     price_4p: 350,
                     price_5: 400,
@@ -22224,7 +22224,7 @@ export const TestData = {
 
             '3581': {
                     prodnom_id: '3581',
-                    name: 'Asus Zenfone 2 Laser ZE550KL (Z00ED}, 2/8GB Gold',
+                    name: 'Asus Zenfone 2 Laser ZE550KL (Z00ED), 2/8GB Gold',
                     price_4: 300,
                     price_4p: 350,
                     price_5: 400,
@@ -22233,7 +22233,7 @@ export const TestData = {
 
             '3582': {
                     prodnom_id: '3582',
-                    name: 'Asus Zenfone 2 Laser ZE550KL (Z00ED}, 2/8GB Purple',
+                    name: 'Asus Zenfone 2 Laser ZE550KL (Z00ED), 2/8GB Purple',
                     price_4: 300,
                     price_4p: 350,
                     price_5: 400,
@@ -22242,7 +22242,7 @@ export const TestData = {
 
             '3583': {
                     prodnom_id: '3583',
-                    name: 'Asus Zenfone 2 Laser ZE550KL (Z00ED}, 2/8GB Silver',
+                    name: 'Asus Zenfone 2 Laser ZE550KL (Z00ED), 2/8GB Silver',
                     price_4: 300,
                     price_4p: 350,
                     price_5: 400,
@@ -22251,7 +22251,7 @@ export const TestData = {
 
             '3584': {
                     prodnom_id: '3584',
-                    name: 'Asus Zenfone 2 Laser ZE550KL (Z00ED}, 2/8GB Red',
+                    name: 'Asus Zenfone 2 Laser ZE550KL (Z00ED), 2/8GB Red',
                     price_4: 300,
                     price_4p: 350,
                     price_5: 400,
@@ -22260,7 +22260,7 @@ export const TestData = {
 
             '3585': {
                     prodnom_id: '3585',
-                    name: 'Asus Zenfone 2 Laser ZE550KL (Z00ED}, 2/16GB Black',
+                    name: 'Asus Zenfone 2 Laser ZE550KL (Z00ED), 2/16GB Black',
                     price_4: 300,
                     price_4p: 400,
                     price_5: 450,
@@ -22269,7 +22269,7 @@ export const TestData = {
 
             '3586': {
                     prodnom_id: '3586',
-                    name: 'Asus Zenfone 2 Laser ZE550KL (Z00ED}, 2/16GB White',
+                    name: 'Asus Zenfone 2 Laser ZE550KL (Z00ED), 2/16GB White',
                     price_4: 300,
                     price_4p: 400,
                     price_5: 450,
@@ -22278,7 +22278,7 @@ export const TestData = {
 
             '3587': {
                     prodnom_id: '3587',
-                    name: 'Asus Zenfone 2 Laser ZE550KL (Z00ED}, 2/16GB Blue',
+                    name: 'Asus Zenfone 2 Laser ZE550KL (Z00ED), 2/16GB Blue',
                     price_4: 300,
                     price_4p: 400,
                     price_5: 450,
@@ -22287,7 +22287,7 @@ export const TestData = {
 
             '3588': {
                     prodnom_id: '3588',
-                    name: 'Asus Zenfone 2 Laser ZE550KL (Z00ED}, 2/16GB Gold',
+                    name: 'Asus Zenfone 2 Laser ZE550KL (Z00ED), 2/16GB Gold',
                     price_4: 300,
                     price_4p: 400,
                     price_5: 450,
@@ -22296,7 +22296,7 @@ export const TestData = {
 
             '3589': {
                     prodnom_id: '3589',
-                    name: 'Asus Zenfone 2 Laser ZE550KL (Z00ED}, 2/16GB Purple',
+                    name: 'Asus Zenfone 2 Laser ZE550KL (Z00ED), 2/16GB Purple',
                     price_4: 300,
                     price_4p: 400,
                     price_5: 450,
@@ -22305,7 +22305,7 @@ export const TestData = {
 
             '3590': {
                     prodnom_id: '3590',
-                    name: 'Asus Zenfone 2 Laser ZE550KL (Z00ED}, 2/16GB Silver',
+                    name: 'Asus Zenfone 2 Laser ZE550KL (Z00ED), 2/16GB Silver',
                     price_4: 300,
                     price_4p: 400,
                     price_5: 450,
@@ -22314,7 +22314,7 @@ export const TestData = {
 
             '3591': {
                     prodnom_id: '3591',
-                    name: 'Asus Zenfone 2 Laser ZE550KL (Z00ED}, 2/16GB Red',
+                    name: 'Asus Zenfone 2 Laser ZE550KL (Z00ED), 2/16GB Red',
                     price_4: 300,
                     price_4p: 400,
                     price_5: 450,
@@ -22323,7 +22323,7 @@ export const TestData = {
 
             '3592': {
                     prodnom_id: '3592',
-                    name: 'Asus Zenfone 2 Laser ZE550KL (Z00ED}, 2/32GB Black',
+                    name: 'Asus Zenfone 2 Laser ZE550KL (Z00ED), 2/32GB Black',
                     price_4: 350,
                     price_4p: 450,
                     price_5: 600,
@@ -22332,7 +22332,7 @@ export const TestData = {
 
             '3593': {
                     prodnom_id: '3593',
-                    name: 'Asus Zenfone 2 Laser ZE550KL (Z00ED}, 2/32GB White',
+                    name: 'Asus Zenfone 2 Laser ZE550KL (Z00ED), 2/32GB White',
                     price_4: 350,
                     price_4p: 450,
                     price_5: 600,
@@ -22341,7 +22341,7 @@ export const TestData = {
 
             '3594': {
                     prodnom_id: '3594',
-                    name: 'Asus Zenfone 2 Laser ZE550KL (Z00ED}, 2/32GB Blue',
+                    name: 'Asus Zenfone 2 Laser ZE550KL (Z00ED), 2/32GB Blue',
                     price_4: 350,
                     price_4p: 450,
                     price_5: 600,
@@ -22350,7 +22350,7 @@ export const TestData = {
 
             '3595': {
                     prodnom_id: '3595',
-                    name: 'Asus Zenfone 2 Laser ZE550KL (Z00ED}, 2/32GB Gold',
+                    name: 'Asus Zenfone 2 Laser ZE550KL (Z00ED), 2/32GB Gold',
                     price_4: 350,
                     price_4p: 450,
                     price_5: 600,
@@ -22359,7 +22359,7 @@ export const TestData = {
 
             '3596': {
                     prodnom_id: '3596',
-                    name: 'Asus Zenfone 2 Laser ZE550KL (Z00ED}, 2/32GB Purple',
+                    name: 'Asus Zenfone 2 Laser ZE550KL (Z00ED), 2/32GB Purple',
                     price_4: 350,
                     price_4p: 450,
                     price_5: 600,
@@ -22368,7 +22368,7 @@ export const TestData = {
 
             '3597': {
                     prodnom_id: '3597',
-                    name: 'Asus Zenfone 2 Laser ZE550KL (Z00ED}, 2/32GB Silver',
+                    name: 'Asus Zenfone 2 Laser ZE550KL (Z00ED), 2/32GB Silver',
                     price_4: 350,
                     price_4p: 450,
                     price_5: 600,
@@ -22377,7 +22377,7 @@ export const TestData = {
 
             '3598': {
                     prodnom_id: '3598',
-                    name: 'Asus Zenfone 2 Laser ZE550KL (Z00ED}, 2/32GB Red',
+                    name: 'Asus Zenfone 2 Laser ZE550KL (Z00ED), 2/32GB Red',
                     price_4: 350,
                     price_4p: 450,
                     price_5: 600,
@@ -22953,7 +22953,7 @@ export const TestData = {
 
             '3666': {
                     prodnom_id: '3666',
-                    name: 'Asus Zenfone Max Plus (M1}, ZB570TL (X018D}, 3/32GB Deepsea Black',
+                    name: 'Asus Zenfone Max Plus (M1), ZB570TL (X018D), 3/32GB Deepsea Black',
                     price_4: 550,
                     price_4p: 750,
                     price_5: 850,
@@ -22962,7 +22962,7 @@ export const TestData = {
 
             '3667': {
                     prodnom_id: '3667',
-                    name: 'Asus Zenfone Max Plus (M1}, ZB570TL (X018D}, 3/32GB Sunlight Gold',
+                    name: 'Asus Zenfone Max Plus (M1), ZB570TL (X018D), 3/32GB Sunlight Gold',
                     price_4: 550,
                     price_4p: 750,
                     price_5: 850,
@@ -22971,7 +22971,7 @@ export const TestData = {
 
             '3668': {
                     prodnom_id: '3668',
-                    name: 'Asus Zenfone Max Plus (M1}, ZB570TL (X018D}, 3/32GB Azure Silver',
+                    name: 'Asus Zenfone Max Plus (M1), ZB570TL (X018D), 3/32GB Azure Silver',
                     price_4: 550,
                     price_4p: 750,
                     price_5: 850,
@@ -22980,7 +22980,7 @@ export const TestData = {
 
             '3669': {
                     prodnom_id: '3669',
-                    name: 'Asus Zenfone Max Plus (M1}, ZB570TL (X018D}, 2/16GB Deepsea Black',
+                    name: 'Asus Zenfone Max Plus (M1), ZB570TL (X018D), 2/16GB Deepsea Black',
                     price_4: 500,
                     price_4p: 650,
                     price_5: 750,
@@ -22989,7 +22989,7 @@ export const TestData = {
 
             '3670': {
                     prodnom_id: '3670',
-                    name: 'Asus Zenfone Max Plus (M1}, ZB570TL (X018D}, 2/16GB Sunlight Gold',
+                    name: 'Asus Zenfone Max Plus (M1), ZB570TL (X018D), 2/16GB Sunlight Gold',
                     price_4: 500,
                     price_4p: 650,
                     price_5: 750,
@@ -22998,7 +22998,7 @@ export const TestData = {
 
             '3671': {
                     prodnom_id: '3671',
-                    name: 'Asus Zenfone Max Plus (M1}, ZB570TL (X018D}, 2/16GB Azure Silver',
+                    name: 'Asus Zenfone Max Plus (M1), ZB570TL (X018D), 2/16GB Azure Silver',
                     price_4: 500,
                     price_4p: 650,
                     price_5: 750,
@@ -23007,7 +23007,7 @@ export const TestData = {
 
             '3672': {
                     prodnom_id: '3672',
-                    name: 'Asus Zenfone Max Plus (M1}, ZB570TL (X018D}, 4/64GB Deepsea Black',
+                    name: 'Asus Zenfone Max Plus (M1), ZB570TL (X018D), 4/64GB Deepsea Black',
                     price_4: 600,
                     price_4p: 800,
                     price_5: 1000,
@@ -23016,7 +23016,7 @@ export const TestData = {
 
             '3673': {
                     prodnom_id: '3673',
-                    name: 'Asus Zenfone Max Plus (M1}, ZB570TL (X018D}, 4/64GB Sunlight Gold',
+                    name: 'Asus Zenfone Max Plus (M1), ZB570TL (X018D), 4/64GB Sunlight Gold',
                     price_4: 600,
                     price_4p: 800,
                     price_5: 1000,
@@ -23025,7 +23025,7 @@ export const TestData = {
 
             '3674': {
                     prodnom_id: '3674',
-                    name: 'Asus Zenfone Max Plus (M1}, ZB570TL (X018D}, 4/64GB Azure Silver',
+                    name: 'Asus Zenfone Max Plus (M1), ZB570TL (X018D), 4/64GB Azure Silver',
                     price_4: 600,
                     price_4p: 800,
                     price_5: 1000,
@@ -23052,7 +23052,7 @@ export const TestData = {
 
             '3677': {
                     prodnom_id: '3677',
-                    name: 'Samsung Galaxy A80 (A805F}, 8/128GB Angel Gold',
+                    name: 'Samsung Galaxy A80 (A805F), 8/128GB Angel Gold',
                     price_4: 2300,
                     price_4p: 2750,
                     price_5: 3100,
@@ -23061,7 +23061,7 @@ export const TestData = {
 
             '3678': {
                     prodnom_id: '3678',
-                    name: 'Samsung Galaxy A80 (A805F}, 8/128GB Phantom Black',
+                    name: 'Samsung Galaxy A80 (A805F), 8/128GB Phantom Black',
                     price_4: 2300,
                     price_4p: 2750,
                     price_5: 3100,
@@ -23070,7 +23070,7 @@ export const TestData = {
 
             '3679': {
                     prodnom_id: '3679',
-                    name: 'Samsung Galaxy A80 (A805F}, 8/128GB Ghost White',
+                    name: 'Samsung Galaxy A80 (A805F), 8/128GB Ghost White',
                     price_4: 2300,
                     price_4p: 2750,
                     price_5: 3100,
@@ -23583,7 +23583,7 @@ export const TestData = {
 
             '3736': {
                     prodnom_id: '3736',
-                    name: 'Lenovo Vibe K5 Note (A7020}, 3/16GB Silver',
+                    name: 'Lenovo Vibe K5 Note (A7020), 3/16GB Silver',
                     price_4: 350,
                     price_4p: 450,
                     price_5: 600,
@@ -23592,7 +23592,7 @@ export const TestData = {
 
             '3737': {
                     prodnom_id: '3737',
-                    name: 'Lenovo Vibe K5 Note (A7020}, 3/16GB Gold',
+                    name: 'Lenovo Vibe K5 Note (A7020), 3/16GB Gold',
                     price_4: 350,
                     price_4p: 450,
                     price_5: 600,
@@ -23601,7 +23601,7 @@ export const TestData = {
 
             '3738': {
                     prodnom_id: '3738',
-                    name: 'Lenovo Vibe K5 Note (A7020}, 3/16GB Gray',
+                    name: 'Lenovo Vibe K5 Note (A7020), 3/16GB Gray',
                     price_4: 350,
                     price_4p: 450,
                     price_5: 600,
@@ -23745,7 +23745,7 @@ export const TestData = {
 
             '3763': {
                     prodnom_id: '3763',
-                    name: 'HTC One (M7}, 2/32GB Black',
+                    name: 'HTC One (M7), 2/32GB Black',
                     price_4: 150,
                     price_4p: 300,
                     price_5: 300,
@@ -23754,7 +23754,7 @@ export const TestData = {
 
             '3764': {
                     prodnom_id: '3764',
-                    name: 'HTC One (M7}, 2/32GB Silver',
+                    name: 'HTC One (M7), 2/32GB Silver',
                     price_4: 150,
                     price_4p: 300,
                     price_5: 300,
@@ -23763,7 +23763,7 @@ export const TestData = {
 
             '3765': {
                     prodnom_id: '3765',
-                    name: 'HTC One (M7}, 2/32GB Red',
+                    name: 'HTC One (M7), 2/32GB Red',
                     price_4: 150,
                     price_4p: 300,
                     price_5: 300,
@@ -23772,7 +23772,7 @@ export const TestData = {
 
             '3766': {
                     prodnom_id: '3766',
-                    name: 'HTC One (M7}, 2/32GB Blue',
+                    name: 'HTC One (M7), 2/32GB Blue',
                     price_4: 150,
                     price_4p: 300,
                     price_5: 300,
@@ -23781,7 +23781,7 @@ export const TestData = {
 
             '3767': {
                     prodnom_id: '3767',
-                    name: 'HTC One (M7}, 2/32GB Gold',
+                    name: 'HTC One (M7), 2/32GB Gold',
                     price_4: 150,
                     price_4p: 300,
                     price_5: 300,
@@ -23790,7 +23790,7 @@ export const TestData = {
 
             '3768': {
                     prodnom_id: '3768',
-                    name: 'HTC One (M7}, 2/64GB Black',
+                    name: 'HTC One (M7), 2/64GB Black',
                     price_4: 200,
                     price_4p: 300,
                     price_5: 350,
@@ -23799,7 +23799,7 @@ export const TestData = {
 
             '3769': {
                     prodnom_id: '3769',
-                    name: 'HTC One (M7}, 2/64GB Silver',
+                    name: 'HTC One (M7), 2/64GB Silver',
                     price_4: 200,
                     price_4p: 300,
                     price_5: 350,
@@ -23808,7 +23808,7 @@ export const TestData = {
 
             '3770': {
                     prodnom_id: '3770',
-                    name: 'HTC One (M7}, 2/64GB Red',
+                    name: 'HTC One (M7), 2/64GB Red',
                     price_4: 200,
                     price_4p: 300,
                     price_5: 350,
@@ -23817,7 +23817,7 @@ export const TestData = {
 
             '3771': {
                     prodnom_id: '3771',
-                    name: 'HTC One (M7}, 2/64GB Blue',
+                    name: 'HTC One (M7), 2/64GB Blue',
                     price_4: 200,
                     price_4p: 300,
                     price_5: 350,
@@ -23826,7 +23826,7 @@ export const TestData = {
 
             '3772': {
                     prodnom_id: '3772',
-                    name: 'HTC One (M7}, 2/64GB Gold',
+                    name: 'HTC One (M7), 2/64GB Gold',
                     price_4: 200,
                     price_4p: 300,
                     price_5: 350,
@@ -23916,7 +23916,7 @@ export const TestData = {
 
             '3782': {
                     prodnom_id: '3782',
-                    name: 'Samsung Galaxy A30 2019 (A305F}, 3/32GB Blue',
+                    name: 'Samsung Galaxy A30 2019 (A305F), 3/32GB Blue',
                     price_4: 1150,
                     price_4p: 1400,
                     price_5: 1450,
@@ -23925,7 +23925,7 @@ export const TestData = {
 
             '3783': {
                     prodnom_id: '3783',
-                    name: 'Samsung Galaxy A30 2019 (A305F}, 3/32GB Red',
+                    name: 'Samsung Galaxy A30 2019 (A305F), 3/32GB Red',
                     price_4: 1150,
                     price_4p: 1400,
                     price_5: 1450,
@@ -23934,7 +23934,7 @@ export const TestData = {
 
             '3784': {
                     prodnom_id: '3784',
-                    name: 'Samsung Galaxy A30 2019 (A305F}, 4/64GB Blue',
+                    name: 'Samsung Galaxy A30 2019 (A305F), 4/64GB Blue',
                     price_4: 1200,
                     price_4p: 1450,
                     price_5: 1500,
@@ -23943,7 +23943,7 @@ export const TestData = {
 
             '3785': {
                     prodnom_id: '3785',
-                    name: 'Samsung Galaxy A30 2019 (A305F}, 4/64GB Red',
+                    name: 'Samsung Galaxy A30 2019 (A305F), 4/64GB Red',
                     price_4: 1200,
                     price_4p: 1450,
                     price_5: 1500,
@@ -24123,7 +24123,7 @@ export const TestData = {
 
             '3805': {
                     prodnom_id: '3805',
-                    name: 'Samsung Galaxy A30s 2019 (A307F}, 4/64GB Black',
+                    name: 'Samsung Galaxy A30s 2019 (A307F), 4/64GB Black',
                     price_4: 1400,
                     price_4p: 1600,
                     price_5: 1650,
@@ -24132,7 +24132,7 @@ export const TestData = {
 
             '3806': {
                     prodnom_id: '3806',
-                    name: 'Samsung Galaxy A30s 2019 (A307F}, 4/64GB White',
+                    name: 'Samsung Galaxy A30s 2019 (A307F), 4/64GB White',
                     price_4: 1400,
                     price_4p: 1600,
                     price_5: 1650,
@@ -24141,7 +24141,7 @@ export const TestData = {
 
             '3807': {
                     prodnom_id: '3807',
-                    name: 'Samsung Galaxy A30s 2019 (A307F}, 4/64GB Green',
+                    name: 'Samsung Galaxy A30s 2019 (A307F), 4/64GB Green',
                     price_4: 1400,
                     price_4p: 1600,
                     price_5: 1650,
@@ -24168,7 +24168,7 @@ export const TestData = {
 
             '3810': {
                     prodnom_id: '3810',
-                    name: 'Samsung Galaxy J5 2017 (J531F}, 2/16GB Black',
+                    name: 'Samsung Galaxy J5 2017 (J531F), 2/16GB Black',
                     price_4: 650,
                     price_4p: 750,
                     price_5: 900,
@@ -24177,7 +24177,7 @@ export const TestData = {
 
             '3811': {
                     prodnom_id: '3811',
-                    name: 'Samsung Galaxy J5 2017 (J531F}, 2/16GB Silver',
+                    name: 'Samsung Galaxy J5 2017 (J531F), 2/16GB Silver',
                     price_4: 650,
                     price_4p: 750,
                     price_5: 900,
@@ -24267,7 +24267,7 @@ export const TestData = {
 
             '3821': {
                     prodnom_id: '3821',
-                    name: 'Motorola Moto G5s Plus (XT1805}, 32GB Gold',
+                    name: 'Motorola Moto G5s Plus (XT1805), 32GB Gold',
                     price_4: 500,
                     price_4p: 700,
                     price_5: 800,
@@ -24276,7 +24276,7 @@ export const TestData = {
 
             '3822': {
                     prodnom_id: '3822',
-                    name: 'Motorola Moto G5s (XT1794}, 32GB Gold',
+                    name: 'Motorola Moto G5s (XT1794), 32GB Gold',
                     price_4: 500,
                     price_4p: 700,
                     price_5: 800,
@@ -24285,7 +24285,7 @@ export const TestData = {
 
             '3824': {
                     prodnom_id: '3824',
-                    name: 'Motorola G5s(XT1794}, 3/32GB Gold',
+                    name: 'Motorola G5s(XT1794), 3/32GB Gold',
                     price_4: 500,
                     price_4p: 700,
                     price_5: 800,
@@ -24474,7 +24474,7 @@ export const TestData = {
 
             '3845': {
                     prodnom_id: '3845',
-                    name: 'Samsung Galaxy Note 10 (N970F}, 8/256GB Aura White',
+                    name: 'Samsung Galaxy Note 10 (N970F), 8/256GB Aura White',
                     price_4: 5000,
                     price_4p: 6000,
                     price_5: 6750,
@@ -24483,7 +24483,7 @@ export const TestData = {
 
             '3846': {
                     prodnom_id: '3846',
-                    name: 'Samsung Galaxy Note 10 (N970F}, 8/256GB Aura Black',
+                    name: 'Samsung Galaxy Note 10 (N970F), 8/256GB Aura Black',
                     price_4: 5000,
                     price_4p: 6000,
                     price_5: 6750,
@@ -24492,7 +24492,7 @@ export const TestData = {
 
             '3847': {
                     prodnom_id: '3847',
-                    name: 'Samsung Galaxy Note 10 (N970F}, 8/256GB Aura Pink',
+                    name: 'Samsung Galaxy Note 10 (N970F), 8/256GB Aura Pink',
                     price_4: 5000,
                     price_4p: 6000,
                     price_5: 6750,
@@ -24501,7 +24501,7 @@ export const TestData = {
 
             '3848': {
                     prodnom_id: '3848',
-                    name: 'Samsung Galaxy Note 10 (N970F}, 8/256GB Aura Red',
+                    name: 'Samsung Galaxy Note 10 (N970F), 8/256GB Aura Red',
                     price_4: 5000,
                     price_4p: 6000,
                     price_5: 6750,
@@ -24510,7 +24510,7 @@ export const TestData = {
 
             '3849': {
                     prodnom_id: '3849',
-                    name: 'Samsung Galaxy Note 10 (N970F}, 8/256GB Aura Glow',
+                    name: 'Samsung Galaxy Note 10 (N970F), 8/256GB Aura Glow',
                     price_4: 5000,
                     price_4p: 6000,
                     price_5: 6750,
@@ -24573,7 +24573,7 @@ export const TestData = {
 
             '3856': {
                     prodnom_id: '3856',
-                    name: 'Sony Xperia X Dual (F5122}, 3/64GB Black',
+                    name: 'Sony Xperia X Dual (F5122), 3/64GB Black',
                     price_4: 400,
                     price_4p: 600,
                     price_5: 650,
@@ -24582,7 +24582,7 @@ export const TestData = {
 
             '3857': {
                     prodnom_id: '3857',
-                    name: 'Sony Xperia X Dual (F5122}, 3/64GB Lime Gold',
+                    name: 'Sony Xperia X Dual (F5122), 3/64GB Lime Gold',
                     price_4: 550,
                     price_4p: 750,
                     price_5: 850,
@@ -24591,7 +24591,7 @@ export const TestData = {
 
             '3858': {
                     prodnom_id: '3858',
-                    name: 'Sony Xperia X Dual (F5122}, 3/64GB Rose Gold',
+                    name: 'Sony Xperia X Dual (F5122), 3/64GB Rose Gold',
                     price_4: 400,
                     price_4p: 600,
                     price_5: 650,
@@ -24600,7 +24600,7 @@ export const TestData = {
 
             '3859': {
                     prodnom_id: '3859',
-                    name: 'Sony Xperia X Dual (F5122}, 3/64GB White',
+                    name: 'Sony Xperia X Dual (F5122), 3/64GB White',
                     price_4: 400,
                     price_4p: 600,
                     price_5: 650,
@@ -24690,7 +24690,7 @@ export const TestData = {
 
             '3869': {
                     prodnom_id: '3869',
-                    name: 'Samsung Galaxy Note (N7000}, 1/16GB White',
+                    name: 'Samsung Galaxy Note (N7000), 1/16GB White',
                     price_4: 300,
                     price_4p: 350,
                     price_5: 400,
@@ -24699,7 +24699,7 @@ export const TestData = {
 
             '3870': {
                     prodnom_id: '3870',
-                    name: 'Samsung Galaxy Note (N7000}, 1/16GB Pink',
+                    name: 'Samsung Galaxy Note (N7000), 1/16GB Pink',
                     price_4: 300,
                     price_4p: 350,
                     price_5: 400,
@@ -24708,7 +24708,7 @@ export const TestData = {
 
             '3871': {
                     prodnom_id: '3871',
-                    name: 'Samsung Galaxy Note (N7000}, 1/32GB Black',
+                    name: 'Samsung Galaxy Note (N7000), 1/32GB Black',
                     price_4: 300,
                     price_4p: 350,
                     price_5: 400,
@@ -24717,7 +24717,7 @@ export const TestData = {
 
             '3872': {
                     prodnom_id: '3872',
-                    name: 'Samsung Galaxy Note (N7000}, 1/32GB White',
+                    name: 'Samsung Galaxy Note (N7000), 1/32GB White',
                     price_4: 300,
                     price_4p: 350,
                     price_5: 400,
@@ -24726,7 +24726,7 @@ export const TestData = {
 
             '3873': {
                     prodnom_id: '3873',
-                    name: 'Samsung Galaxy Note (N7000}, 1/32GB Pink',
+                    name: 'Samsung Galaxy Note (N7000), 1/32GB Pink',
                     price_4: 300,
                     price_4p: 350,
                     price_5: 400,
@@ -24735,7 +24735,7 @@ export const TestData = {
 
             '3874': {
                     prodnom_id: '3874',
-                    name: 'Samsung Galaxy Note (N7000}, 1/16GB Black',
+                    name: 'Samsung Galaxy Note (N7000), 1/16GB Black',
                     price_4: 300,
                     price_4p: 350,
                     price_5: 400,
@@ -24753,7 +24753,7 @@ export const TestData = {
 
             '3876': {
                     prodnom_id: '3876',
-                    name: 'Samsung Galaxy Note (N7000}, 1/16GB',
+                    name: 'Samsung Galaxy Note (N7000), 1/16GB',
                     price_4: 300,
                     price_4p: 350,
                     price_5: 400,
@@ -24798,7 +24798,7 @@ export const TestData = {
 
             '3881': {
                     prodnom_id: '3881',
-                    name: 'Sony Xperia X (F5121}, 3/32GB White',
+                    name: 'Sony Xperia X (F5121), 3/32GB White',
                     price_4: 400,
                     price_4p: 500,
                     price_5: 650,
@@ -24807,7 +24807,7 @@ export const TestData = {
 
             '3882': {
                     prodnom_id: '3882',
-                    name: 'Sony Xperia X (F5121}, 3/32GB Rose Gold',
+                    name: 'Sony Xperia X (F5121), 3/32GB Rose Gold',
                     price_4: 400,
                     price_4p: 500,
                     price_5: 650,
@@ -24816,7 +24816,7 @@ export const TestData = {
 
             '3883': {
                     prodnom_id: '3883',
-                    name: 'Sony Xperia X (F5121}, 3/32GB Lime Gold',
+                    name: 'Sony Xperia X (F5121), 3/32GB Lime Gold',
                     price_4: 400,
                     price_4p: 500,
                     price_5: 650,
@@ -24825,7 +24825,7 @@ export const TestData = {
 
             '3884': {
                     prodnom_id: '3884',
-                    name: 'Sony Xperia X (F5121}, 3/32GB Black',
+                    name: 'Sony Xperia X (F5121), 3/32GB Black',
                     price_4: 400,
                     price_4p: 500,
                     price_5: 650,
@@ -25014,7 +25014,7 @@ export const TestData = {
 
             '3907': {
                     prodnom_id: '3907',
-                    name: 'LG K10 LTE (K430ds}, 1.5/16GB Black',
+                    name: 'LG K10 LTE (K430ds), 1.5/16GB Black',
                     price_4: 400,
                     price_4p: 600,
                     price_5: 650,
@@ -25023,7 +25023,7 @@ export const TestData = {
 
             '3908': {
                     prodnom_id: '3908',
-                    name: 'LG K10 LTE (K430ds}, 1.5/16GB White',
+                    name: 'LG K10 LTE (K430ds), 1.5/16GB White',
                     price_4: 400,
                     price_4p: 600,
                     price_5: 650,
@@ -25032,7 +25032,7 @@ export const TestData = {
 
             '3909': {
                     prodnom_id: '3909',
-                    name: 'LG K10 LTE (K430ds}, 1.5/16GB Indigo',
+                    name: 'LG K10 LTE (K430ds), 1.5/16GB Indigo',
                     price_4: 400,
                     price_4p: 600,
                     price_5: 650,
@@ -25041,7 +25041,7 @@ export const TestData = {
 
             '3910': {
                     prodnom_id: '3910',
-                    name: 'LG K10 LTE (K430ds}, 1.5/16GB Gold',
+                    name: 'LG K10 LTE (K430ds), 1.5/16GB Gold',
                     price_4: 400,
                     price_4p: 600,
                     price_5: 650,
@@ -25329,7 +25329,7 @@ export const TestData = {
 
             '3943': {
                     prodnom_id: '3943',
-                    name: 'LG K4 2017 (M160E}, 1/8GB',
+                    name: 'LG K4 2017 (M160E), 1/8GB',
                     price_4: 300,
                     price_4p: 400,
                     price_5: 450,
@@ -25338,7 +25338,7 @@ export const TestData = {
 
             '3944': {
                     prodnom_id: '3944',
-                    name: 'Samsung Galaxy Mega 5.8 (I9150}, 1.5/8GB Black',
+                    name: 'Samsung Galaxy Mega 5.8 (I9150), 1.5/8GB Black',
                     price_4: 150,
                     price_4p: 300,
                     price_5: 300,
@@ -25347,7 +25347,7 @@ export const TestData = {
 
             '3945': {
                     prodnom_id: '3945',
-                    name: 'Samsung Galaxy Mega 5.8 (I9150}, 1.5/8GB White',
+                    name: 'Samsung Galaxy Mega 5.8 (I9150), 1.5/8GB White',
                     price_4: 150,
                     price_4p: 300,
                     price_5: 300,
@@ -25356,7 +25356,7 @@ export const TestData = {
 
             '3946': {
                     prodnom_id: '3946',
-                    name: 'Samsung Galaxy Mega 5.8 (I9150}, 1.5/8GB Purple',
+                    name: 'Samsung Galaxy Mega 5.8 (I9150), 1.5/8GB Purple',
                     price_4: 150,
                     price_4p: 300,
                     price_5: 300,
@@ -25365,7 +25365,7 @@ export const TestData = {
 
             '3947': {
                     prodnom_id: '3947',
-                    name: 'Samsung Galaxy Mega 5.8 DS (I9152}, 1.5/8GB Black',
+                    name: 'Samsung Galaxy Mega 5.8 DS (I9152), 1.5/8GB Black',
                     price_4: 150,
                     price_4p: 300,
                     price_5: 300,
@@ -25374,7 +25374,7 @@ export const TestData = {
 
             '3948': {
                     prodnom_id: '3948',
-                    name: 'Samsung Galaxy Mega 5.8 DS (I9152}, 1.5/8GB White',
+                    name: 'Samsung Galaxy Mega 5.8 DS (I9152), 1.5/8GB White',
                     price_4: 150,
                     price_4p: 300,
                     price_5: 300,
@@ -25383,7 +25383,7 @@ export const TestData = {
 
             '3949': {
                     prodnom_id: '3949',
-                    name: 'Samsung Galaxy Mega 5.8 DS (I9152}, 1.5/8GB Purple',
+                    name: 'Samsung Galaxy Mega 5.8 DS (I9152), 1.5/8GB Purple',
                     price_4: 300,
                     price_4p: 400,
                     price_5: 450,
@@ -25392,7 +25392,7 @@ export const TestData = {
 
             '3950': {
                     prodnom_id: '3950',
-                    name: 'Alcatel Shine Lite (5080X}, 2/16GB Pure White',
+                    name: 'Alcatel Shine Lite (5080X), 2/16GB Pure White',
                     price_4: 300,
                     price_4p: 350,
                     price_5: 400,
@@ -25401,7 +25401,7 @@ export const TestData = {
 
             '3951': {
                     prodnom_id: '3951',
-                    name: 'Alcatel Shine Lite (5080X}, 2/16GB Prime Black',
+                    name: 'Alcatel Shine Lite (5080X), 2/16GB Prime Black',
                     price_4: 300,
                     price_4p: 350,
                     price_5: 400,
@@ -25410,7 +25410,7 @@ export const TestData = {
 
             '3952': {
                     prodnom_id: '3952',
-                    name: 'Alcatel Shine Lite (5080X}, 2/16GB Satin Gold',
+                    name: 'Alcatel Shine Lite (5080X), 2/16GB Satin Gold',
                     price_4: 300,
                     price_4p: 350,
                     price_5: 400,
@@ -25437,7 +25437,7 @@ export const TestData = {
 
             '3955': {
                     prodnom_id: '3955',
-                    name: 'Sony Xperia XL (C6503}, 2/16GB Black',
+                    name: 'Sony Xperia XL (C6503), 2/16GB Black',
                     price_4: 400,
                     price_4p: 600,
                     price_5: 650,
@@ -25572,7 +25572,7 @@ export const TestData = {
 
             '3971': {
                     prodnom_id: '3971',
-                    name: 'Asus ZenFone 5 (A501CG}, 8GB White',
+                    name: 'Asus ZenFone 5 (A501CG), 8GB White',
                     price_4: 300,
                     price_4p: 400,
                     price_5: 450,
@@ -25599,7 +25599,7 @@ export const TestData = {
 
             '3974': {
                     prodnom_id: '3974',
-                    name: 'Motorola Moto E4 Plus (XT1771}, 16GB Gold',
+                    name: 'Motorola Moto E4 Plus (XT1771), 16GB Gold',
                     price_4: 300,
                     price_4p: 350,
                     price_5: 400,
@@ -25608,7 +25608,7 @@ export const TestData = {
 
             '3975': {
                     prodnom_id: '3975',
-                    name: 'Motorola Moto E4 Plus (XT1771}, 16GB Grey',
+                    name: 'Motorola Moto E4 Plus (XT1771), 16GB Grey',
                     price_4: 300,
                     price_4p: 350,
                     price_5: 400,
@@ -25617,7 +25617,7 @@ export const TestData = {
 
             '3976': {
                     prodnom_id: '3976',
-                    name: 'Samsung Galaxy J1 Ace Duos (J110H}, 4GB Blue',
+                    name: 'Samsung Galaxy J1 Ace Duos (J110H), 4GB Blue',
                     price_4: 300,
                     price_4p: 350,
                     price_5: 400,
@@ -25689,7 +25689,7 @@ export const TestData = {
 
             '3984': {
                     prodnom_id: '3984',
-                    name: 'Samsung Galaxy A8 2018 64GB (A530F}, Black',
+                    name: 'Samsung Galaxy A8 2018 64GB (A530F), Black',
                     price_4: 1150,
                     price_4p: 1550,
                     price_5: 1800,
